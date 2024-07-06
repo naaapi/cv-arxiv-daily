@@ -17,6 +17,7 @@ env:
 
   GITHUB_USER_NAME: naaapi
   GITHUB_USER_EMAIL: napi@mail.ustc.edu.cn
+  ACTIONS_ALLOW_USE_UNSECURE_NODE_VERSION: true
   
   
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
