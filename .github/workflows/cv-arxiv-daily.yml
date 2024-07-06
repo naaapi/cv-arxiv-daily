@@ -17,7 +17,6 @@ env:
 
   GITHUB_USER_NAME: naaapi
   GITHUB_USER_EMAIL: napi@mail.ustc.edu.cn
-  ACTIONS_ALLOW_USE_UNSECURE_NODE_VERSION: true
   
   
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
@@ -31,7 +30,7 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         
       - name: Set up Python Env
         uses: actions/setup-python@v4
