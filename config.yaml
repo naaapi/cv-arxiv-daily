@@ -4,7 +4,7 @@ user_name: "naaapi"
 repo_name: "cv-arxiv-daily"
 show_authors: True
 show_links: True
-show_badge: True
+show_badge: False
 max_results: 10
 
 publish_readme: True
@@ -23,4 +23,6 @@ md_wechat_path: './docs/wechat.md'
 # keywords to search
 keywords:
     "Human Avatar":
-        filters: ["Human Avatar", "Gaussian Avatar"]
+        filters: ["Human Avatar"]
+    "Gaussian Splatting":
+        filters: ["Gaussian Splatting"]
