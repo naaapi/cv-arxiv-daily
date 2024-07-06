@@ -5,11 +5,13 @@ repo_name: "cv-arxiv-daily"
 show_authors: True
 show_links: True
 show_badge: False
-max_results: 10
+max_results: 1
 
 publish_readme: True
 publish_gitpage: True
 publish_wechat: False
+
+send_email: True
 
 # file paths
 json_readme_path: './docs/cv-arxiv-daily.json'

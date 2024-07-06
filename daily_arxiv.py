@@ -8,6 +8,10 @@ import argparse
 import datetime
 import requests
 
+import smtplib
+from email.mime.text import MIMEText
+from email.utils import formataddr
+
 logging.basicConfig(format='[%(asctime)s %(levelname)s] %(message)s',
                     datefmt='%m/%d/%Y %H:%M:%S',
                     level=logging.INFO)
@@ -367,6 +371,17 @@ def json_to_md(filename,md_filename,
 
     logging.info(f"{task} finished")
 
+def send_email(send_msg, sender_email, sender_passwd, receiver_email):
+    msg = MIMEText(send_msg, 'plain', 'utf-8')
+    msg['From'] = formataddr(["Napi", sender_email])
+    msg['To'] = formataddr([receiver_email, receiver_email])
+    msg['Subject'] = "Test"
+
+    server = smtplib.SMTP_SSL("smtp.qq.com", 465)
+    server.login(sender_email, sender_passwd)
+    server.sendmail(sender_email, [receiver_email,], msg.as_string())
+    server.quit()
+
 def demo(**config):
     # TODO: use config
     data_collector = []
@@ -431,13 +446,23 @@ def demo(**config):
         json_to_md(json_file, md_file, task ='Update Wechat', \
             to_web=False, use_title= False, show_badge = show_badge)
 
+    if config['send_email']:
+        send_msg = 'github action send email test'
+        send_email(send_msg, config['sender_email'], config['sender_passwd'], config['receiver_email'])
+
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument('--config_path',type=str, default='config.yaml',
                             help='configuration file path')
     parser.add_argument('--update_paper_links', default=False,
                         action="store_true",help='whether to update paper links etc.')
+    parser.add_argument('--sender_email',type=str, default=None,
+                            help='configuration file path')
+    parser.add_argument('--sender_passwd',type=str, default=None,
+                            help='configuration file path')
+    parser.add_argument('--receiver_email',type=str, default=None,
+                            help='configuration file path')
     args = parser.parse_args()
     config = load_config(args.config_path)
-    config = {**config, 'update_paper_links':args.update_paper_links}
+    config = {**config, 'update_paper_links':args.update_paper_links, 'sender_email':args.sender_email, 'sender_passwd':args.sender_passwd, 'receiver_email':args.receiver_email}
     demo(**config)
