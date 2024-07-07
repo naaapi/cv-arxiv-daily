@@ -88,7 +88,7 @@ def get_code_link(qword:str) -> str:
         code_link = results["items"][0]["html_url"]
     return code_link
 
-def get_daily_papers(topic,query="slam", max_results=2):
+def get_daily_papers(json_data, topic,query="slam", max_results=2):
     """
     @param topic: str
     @param query: str
@@ -102,6 +102,8 @@ def get_daily_papers(topic,query="slam", max_results=2):
         max_results = max_results,
         sort_by = arxiv.SortCriterion.SubmittedDate
     )
+
+    papers_msg = ''
 
     for result in search_engine.results():
 
@@ -130,7 +132,7 @@ def get_daily_papers(topic,query="slam", max_results=2):
         try:
             # source code link
             r = requests.get(code_url).json()
-            repo_url = None
+            repo_url = "N/A"
             if "official" in r and r["official"]:
                 repo_url = r["official"]["url"]
             # TODO: not found, two more chances
@@ -138,7 +140,7 @@ def get_daily_papers(topic,query="slam", max_results=2):
             #    repo_url = get_code_link(paper_title)
             #    if repo_url is None:
             #        repo_url = get_code_link(paper_key)
-            if repo_url is not None:
+            if repo_url != "N/A":
                 content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|**[link]({})**|\n".format(
                        update_time,paper_title,paper_first_author,paper_key,paper_url,repo_url)
                 content_to_web[paper_key] = "- {}, **{}**, {} et.al., Paper: [{}]({}), Code: **[{}]({})**".format(
@@ -157,12 +159,15 @@ def get_daily_papers(topic,query="slam", max_results=2):
             else:
                 content_to_web[paper_key] += f"\n"
 
+            if paper_key not in json_data[topic]:
+                papers_msg += f"Title: {paper_title}\nAuthor: {paper_authors}\nPaper Link: {paper_url}\nProject Page: {repo_url}\nAbstract: {paper_abstract}\n\n"
+
         except Exception as e:
             logging.error(f"exception: {e} with id: {paper_key}")
 
     data = {topic:content}
     data_web = {topic:content_to_web}
-    return data,data_web
+    return data,data_web, papers_msg
 
 def update_paper_links(filename):
     '''
@@ -244,6 +249,20 @@ def update_json_file(filename,data_dict):
     with open(filename,"w") as f:
         json.dump(json_data,f)
 
+def pretty_math(s:str) -> str:
+    ret = ''
+    match = re.search(r"\$.*\$", s)
+    if match == None:
+        return s
+    math_start,math_end = match.span()
+    space_trail = space_leading = ''
+    if s[:math_start][-1] != ' ' and '*' != s[:math_start][-1]: space_trail = ' '
+    if s[math_end:][0] != ' ' and '*' != s[math_end:][0]: space_leading = ' '
+    ret += s[:math_start]
+    ret += f'{space_trail}${match.group()[1:-1].strip()}${space_leading}'
+    ret += s[math_end:]
+    return ret
+
 def json_to_md(filename,md_filename,
                task = '',
                to_web = False,
@@ -256,20 +275,6 @@ def json_to_md(filename,md_filename,
     @param md_filename: str
     @return None
     """
-    def pretty_math(s:str) -> str:
-        ret = ''
-        match = re.search(r"\$.*\$", s)
-        if match == None:
-            return s
-        math_start,math_end = match.span()
-        space_trail = space_leading = ''
-        if s[:math_start][-1] != ' ' and '*' != s[:math_start][-1]: space_trail = ' '
-        if s[math_end:][0] != ' ' and '*' != s[math_end:][0]: space_leading = ' '
-        ret += s[:math_start]
-        ret += f'{space_trail}${match.group()[1:-1].strip()}${space_leading}'
-        ret += s[math_end:]
-        return ret
-
     DateNow = datetime.date.today()
     DateNow = str(DateNow)
     DateNow = DateNow.replace('-','.')
@@ -372,10 +377,12 @@ def json_to_md(filename,md_filename,
     logging.info(f"{task} finished")
 
 def send_email(send_msg, sender_email, sender_passwd, receiver_email):
+    time = datetime.now().strftime("%Y-%m-%d")
+    subject = 'Daily Paper '+time
     msg = MIMEText(send_msg, 'plain', 'utf-8')
     msg['From'] = formataddr(["Napi", sender_email])
     msg['To'] = formataddr([receiver_email, receiver_email])
-    msg['Subject'] = "Test"
+    msg['Subject'] = subject
 
     server = smtplib.SMTP_SSL("smtp.qq.com", 465)
     server.login(sender_email, sender_passwd)
@@ -398,10 +405,22 @@ def demo(**config):
     logging.info(f'Update Paper Link = {b_update}')
     if config['update_paper_links'] == False:
         logging.info(f"GET daily papers begin")
+        send_msg = ''
+        separator = '*'*20
+        with open(config['json_readme_path'],"r") as f:
+            content = f.read()
+            if not content:
+                m = {}
+            else:
+                m = json.loads(content)
+        json_data = m.copy()
         for topic, keyword in keywords.items():
             logging.info(f"Keyword: {topic}")
-            data, data_web = get_daily_papers(topic, query = keyword,
+            data, data_web, papers_msg = get_daily_papers(json_data, topic, query = keyword,
                                             max_results = max_results)
+            if len(papers_msg) != 0:
+                send_msg += f'{separator}{topic}{separator}\n'
+                send_msg += papers_msg
             data_collector.append(data)
             data_collector_web.append(data_web)
             print("\n")
@@ -446,8 +465,7 @@ def demo(**config):
         json_to_md(json_file, md_file, task ='Update Wechat', \
             to_web=False, use_title= False, show_badge = show_badge)
 
-    if config['send_email']:
-        send_msg = 'github action send email test'
+    if config['send_email'] and config['update_paper_links'] == False and len(send_msg) != 0:
         send_email(send_msg, config['sender_email'], config['sender_passwd'], config['receiver_email'])
 
 if __name__ == "__main__":
