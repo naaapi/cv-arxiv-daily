@@ -377,7 +377,7 @@ def json_to_md(filename,md_filename,
     logging.info(f"{task} finished")
 
 def send_email(send_msg, sender_email, sender_passwd, receiver_email):
-    time = datetime.now().strftime("%Y-%m-%d")
+    time = datetime.datetime.now().strftime("%Y-%m-%d")
     subject = 'Daily Paper '+time
     msg = MIMEText(send_msg, 'plain', 'utf-8')
     msg['From'] = formataddr(["Napi", sender_email])
