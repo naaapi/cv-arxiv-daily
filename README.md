@@ -1,4 +1,4 @@
-## Updated on 2024.07.07
+## Updated on 2024.07.08
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -62,15 +62,15 @@
 |**2023-11-14**|**Drivable 3D Gaussian Avatars**|Wojciech Zielonka et.al.|[2311.08581](http://arxiv.org/abs/2311.08581)|null|
 |**2023-10-19**|**Habitat 3.0: A Co-Habitat for Humans, Avatars and Robots**|Xavier Puig et.al.|[2310.13724](http://arxiv.org/abs/2310.13724)|null|
 
-<p align=right>(<a href=#updated-on-20240707>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240708>back to top</a>)</p>
 
 ## Gaussian Splatting
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-07-03**|**VEGS: View Extrapolation of Urban Scenes in 3D Gaussian Splatting using Learned Priors**|Sungwon Hwang et.al.|[2407.02945](http://arxiv.org/abs/2407.02945)|null|
+|**2024-07-04**|**VEGS: View Extrapolation of Urban Scenes in 3D Gaussian Splatting using Learned Priors**|Sungwon Hwang et.al.|[2407.02945](http://arxiv.org/abs/2407.02945)|null|
 |**2024-07-03**|**Free-SurGS: SfM-Free 3D Gaussian Splatting for Surgical Scene Reconstruction**|Jiaxin Guo et.al.|[2407.02918](http://arxiv.org/abs/2407.02918)|**[link](https://github.com/wrld/free-surgs)**|
-|**2024-07-02**|**AutoSplat: Constrained Gaussian Splatting for Autonomous Driving Scene Reconstruction**|Mustafa Khan et.al.|[2407.02598](http://arxiv.org/abs/2407.02598)|null|
+|**2024-07-04**|**AutoSplat: Constrained Gaussian Splatting for Autonomous Driving Scene Reconstruction**|Mustafa Khan et.al.|[2407.02598](http://arxiv.org/abs/2407.02598)|null|
 |**2024-07-02**|**TrAME: Trajectory-Anchored Multi-View Editing for Text-Guided 3D Gaussian Splatting Manipulation**|Chaofan Luo et.al.|[2407.02034](http://arxiv.org/abs/2407.02034)|null|
 |**2024-07-01**|**DRAGON: Drone and Ground Gaussian Splatting for 3D Building Reconstruction**|Yujin Ham et.al.|[2407.01761](http://arxiv.org/abs/2407.01761)|null|
 |**2024-07-01**|**GaussianStego: A Generalizable Stenography Pipeline for Generative 3D Gaussians Splatting**|Chenxin Li et.al.|[2407.01301](http://arxiv.org/abs/2407.01301)|null|
@@ -169,5 +169,5 @@
 |**2024-05-30**|**Deform3DGS: Flexible Deformation for Fast Surgical Scene Reconstruction with Gaussian Splatting**|Shuojue Yang et.al.|[2405.17835](http://arxiv.org/abs/2405.17835)|**[link](https://github.com/jinlab-imvr/deform3dgs)**|
 |**2024-05-28**|**Mani-GS: Gaussian Splatting Manipulation with Triangular Mesh**|Xiangjun Gao et.al.|[2405.17811](http://arxiv.org/abs/2405.17811)|null|
 
-<p align=right>(<a href=#updated-on-20240707>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240708>back to top</a>)</p>
 
