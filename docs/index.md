@@ -2,11 +2,12 @@
 layout: default
 ---
 
-## Updated on 2024.07.09
+## Updated on 2024.07.10
 ## Human Avatar
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-07**|**PICA: Physics-Integrated Clothed Avatar**|Bo Peng et.al.|[2407.05324](http://arxiv.org/abs/2407.05324)|null|
 |**2024-07-05**|**CanonicalFusion: Generating Drivable 3D Human Avatars from Multiple Images**|Jisu Shin et.al.|[2407.04345](http://arxiv.org/abs/2407.04345)|**[link](https://github.com/jsshin98/canonicalfusion)**|
 |**2024-07-03**|**Expressive Gaussian Human Avatars from Monocular RGB Video**|Hezhen Hu et.al.|[2407.03204](http://arxiv.org/abs/2407.03204)|null|
 |**2024-07-02**|**WildAvatar: Web-scale In-the-wild Video Dataset for 3D Avatar Creation**|Zihao Huang et.al.|[2407.02165](http://arxiv.org/abs/2407.02165)|**[link](https://github.com/wildavatar/WildAvatar_Toolbox)**|
@@ -63,11 +64,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-07**|**PICA: Physics-Integrated Clothed Avatar**|Bo Peng et.al.|[2407.05324](http://arxiv.org/abs/2407.05324)|null|
+|**2024-07-07**|**GaussReg: Fast 3D Registration with Gaussian Splatting**|Jiahao Chang et.al.|[2407.05254](http://arxiv.org/abs/2407.05254)|null|
+|**2024-07-06**|**SurgicalGaussian: Deformable 3D Gaussians for High-Fidelity Surgical Scene Reconstruction**|Weixing Xie et.al.|[2407.05023](http://arxiv.org/abs/2407.05023)|null|
 |**2024-07-05**|**Gaussian Eigen Models for Human Heads**|Wojciech Zielonka et.al.|[2407.04545](http://arxiv.org/abs/2407.04545)|null|
 |**2024-07-05**|**Segment Any 4D Gaussians**|Shengxiang Ji et.al.|[2407.04504](http://arxiv.org/abs/2407.04504)|null|
 |**2024-07-05**|**GSD: View-Guided Gaussian Splatting Diffusion for 3D Reconstruction**|Yuxuan Mu et.al.|[2407.04237](http://arxiv.org/abs/2407.04237)|null|
 |**2024-07-04**|**CRiM-GS: Continuous Rigid Motion-Aware Gaussian Splatting from Motion Blur Images**|Junghe Lee et.al.|[2407.03923](http://arxiv.org/abs/2407.03923)|null|
-|**2024-07-04**|**PFGS: High Fidelity Point Cloud Rendering via Feature Splatting**|Jiaxu Wang et.al.|[2407.03857](http://arxiv.org/abs/2407.03857)|null|
+|**2024-07-04**|**PFGS: High Fidelity Point Cloud Rendering via Feature Splatting**|Jiaxu Wang et.al.|[2407.03857](http://arxiv.org/abs/2407.03857)|**[link](https://github.com/Mercerai/PFGS)**|
 |**2024-07-04**|**SpikeGS: Reconstruct 3D scene via fast-moving bio-inspired sensors**|Yijia Guo et.al.|[2407.03771](http://arxiv.org/abs/2407.03771)|null|
 |**2024-07-04**|**VEGS: View Extrapolation of Urban Scenes in 3D Gaussian Splatting using Learned Priors**|Sungwon Hwang et.al.|[2407.02945](http://arxiv.org/abs/2407.02945)|null|
 |**2024-07-03**|**Free-SurGS: SfM-Free 3D Gaussian Splatting for Surgical Scene Reconstruction**|Jiaxin Guo et.al.|[2407.02918](http://arxiv.org/abs/2407.02918)|**[link](https://github.com/wrld/free-surgs)**|
