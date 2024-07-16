@@ -1,4 +1,4 @@
-## Updated on 2024.07.15
+## Updated on 2024.07.16
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -16,7 +16,7 @@
 |**2024-07-07**|**PICA: Physics-Integrated Clothed Avatar**|Bo Peng et.al.|[2407.05324](http://arxiv.org/abs/2407.05324)|null|
 |**2024-07-05**|**CanonicalFusion: Generating Drivable 3D Human Avatars from Multiple Images**|Jisu Shin et.al.|[2407.04345](http://arxiv.org/abs/2407.04345)|**[link](https://github.com/jsshin98/canonicalfusion)**|
 |**2024-07-03**|**Expressive Gaussian Human Avatars from Monocular RGB Video**|Hezhen Hu et.al.|[2407.03204](http://arxiv.org/abs/2407.03204)|null|
-|**2024-07-10**|**WildAvatar: Web-scale In-the-wild Video Dataset for 3D Avatar Creation**|Zihao Huang et.al.|[2407.02165](http://arxiv.org/abs/2407.02165)|**[link](https://github.com/wildavatar/WildAvatar_Toolbox)**|
+|**2024-07-14**|**WildAvatar: Web-scale In-the-wild Video Dataset for 3D Avatar Creation**|Zihao Huang et.al.|[2407.02165](http://arxiv.org/abs/2407.02165)|**[link](https://github.com/wildavatar/WildAvatar_Toolbox)**|
 |**2024-06-28**|**FAGhead: Fully Animate Gaussian Head from Monocular Videos**|Yixin Xuan et.al.|[2406.19070](http://arxiv.org/abs/2406.19070)|null|
 |**2024-07-12**|**Instant 3D Human Avatar Generation using Image Diffusion Models**|Nikos Kolotouros et.al.|[2406.07516](http://arxiv.org/abs/2406.07516)|null|
 |**2024-06-10**|**Learning-based cognitive architecture for enhancing coordination in human groups**|Antonio Grotta et.al.|[2406.06297](http://arxiv.org/abs/2406.06297)|null|
@@ -66,12 +66,13 @@
 |**2023-11-14**|**Drivable 3D Gaussian Avatars**|Wojciech Zielonka et.al.|[2311.08581](http://arxiv.org/abs/2311.08581)|null|
 |**2023-10-19**|**Habitat 3.0: A Co-Habitat for Humans, Avatars and Robots**|Xavier Puig et.al.|[2310.13724](http://arxiv.org/abs/2310.13724)|null|
 
-<p align=right>(<a href=#updated-on-20240715>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240716>back to top</a>)</p>
 
 ## Gaussian Splatting
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-12**|**StyleSplat: 3D Object Style Transfer with Gaussian Splatting**|Sahil Jain et.al.|[2407.09473](http://arxiv.org/abs/2407.09473)|null|
 |**2024-07-11**|**WildGaussians: 3D Gaussian Splatting in the Wild**|Jonas Kulhanek et.al.|[2407.08447](http://arxiv.org/abs/2407.08447)|null|
 |**2024-07-11**|**Survey on Fundamental Deep Learning 3D Reconstruction Techniques**|Yonge Bai et.al.|[2407.08137](http://arxiv.org/abs/2407.08137)|null|
 |**2024-07-10**|**MIGS: Multi-Identity Gaussian Splatting via Tensor Decomposition**|Aggelina Chatziagapi et.al.|[2407.07284](http://arxiv.org/abs/2407.07284)|null|
@@ -187,5 +188,5 @@
 |**2024-05-30**|**Deform3DGS: Flexible Deformation for Fast Surgical Scene Reconstruction with Gaussian Splatting**|Shuojue Yang et.al.|[2405.17835](http://arxiv.org/abs/2405.17835)|**[link](https://github.com/jinlab-imvr/deform3dgs)**|
 |**2024-05-28**|**Mani-GS: Gaussian Splatting Manipulation with Triangular Mesh**|Xiangjun Gao et.al.|[2405.17811](http://arxiv.org/abs/2405.17811)|null|
 
-<p align=right>(<a href=#updated-on-20240715>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240716>back to top</a>)</p>
 
