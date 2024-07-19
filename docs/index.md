@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.07.18
+## Updated on 2024.07.19
 ## Human Avatar
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -67,6 +67,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-17**|**Generalizable Human Gaussians for Sparse View Synthesis**|Youngjoong Kwon et.al.|[2407.12777](http://arxiv.org/abs/2407.12777)|null|
+|**2024-07-17**|**Splatfacto-W: A Nerfstudio Implementation of Gaussian Splatting for Unconstrained Photo Collections**|Congrong Xu et.al.|[2407.12306](http://arxiv.org/abs/2407.12306)|null|
 |**2024-07-16**|**MVG-Splatting: Multi-View Guided Gaussian Splatting with Adaptive Quantile-Based Geometric Consistency Densification**|Zhuoxiao Li et.al.|[2407.11840](http://arxiv.org/abs/2407.11840)|null|
 |**2024-07-16**|**Click-Gaussian: Interactive Segmentation to Any 3D Gaussians**|Seokhun Choi et.al.|[2407.11793](http://arxiv.org/abs/2407.11793)|null|
 |**2024-07-16**|**SlingBAG: Sliding ball adaptive growth algorithm with differentiable radiation enables super-efficient iterative 3D photoacoustic image reconstruction**|Shuang Li et.al.|[2407.11781](http://arxiv.org/abs/2407.11781)|null|
