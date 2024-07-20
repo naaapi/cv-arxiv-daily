@@ -1,4 +1,4 @@
-## Updated on 2024.07.19
+## Updated on 2024.07.20
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -67,12 +67,14 @@
 |**2023-11-14**|**Drivable 3D Gaussian Avatars**|Wojciech Zielonka et.al.|[2311.08581](http://arxiv.org/abs/2311.08581)|null|
 |**2023-10-19**|**Habitat 3.0: A Co-Habitat for Humans, Avatars and Robots**|Xavier Puig et.al.|[2310.13724](http://arxiv.org/abs/2310.13724)|null|
 
-<p align=right>(<a href=#updated-on-20240719>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240720>back to top</a>)</p>
 
 ## Gaussian Splatting
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-18**|**Connecting Consistency Distillation to Score Distillation for Text-to-3D Generation**|Zongrui Li et.al.|[2407.13584](http://arxiv.org/abs/2407.13584)|null|
+|**2024-07-18**|**EaDeblur-GS: Event assisted 3D Deblur Reconstruction with Gaussian Splatting**|Yuchen Weng et.al.|[2407.13520](http://arxiv.org/abs/2407.13520)|null|
 |**2024-07-17**|**Generalizable Human Gaussians for Sparse View Synthesis**|Youngjoong Kwon et.al.|[2407.12777](http://arxiv.org/abs/2407.12777)|null|
 |**2024-07-17**|**Splatfacto-W: A Nerfstudio Implementation of Gaussian Splatting for Unconstrained Photo Collections**|Congrong Xu et.al.|[2407.12306](http://arxiv.org/abs/2407.12306)|null|
 |**2024-07-16**|**MVG-Splatting: Multi-View Guided Gaussian Splatting with Adaptive Quantile-Based Geometric Consistency Densification**|Zhuoxiao Li et.al.|[2407.11840](http://arxiv.org/abs/2407.11840)|null|
@@ -204,5 +206,5 @@
 |**2024-05-30**|**Deform3DGS: Flexible Deformation for Fast Surgical Scene Reconstruction with Gaussian Splatting**|Shuojue Yang et.al.|[2405.17835](http://arxiv.org/abs/2405.17835)|**[link](https://github.com/jinlab-imvr/deform3dgs)**|
 |**2024-05-28**|**Mani-GS: Gaussian Splatting Manipulation with Triangular Mesh**|Xiangjun Gao et.al.|[2405.17811](http://arxiv.org/abs/2405.17811)|null|
 
-<p align=right>(<a href=#updated-on-20240719>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240720>back to top</a>)</p>
 
