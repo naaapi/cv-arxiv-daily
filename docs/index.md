@@ -2,11 +2,12 @@
 layout: default
 ---
 
-## Updated on 2024.08.27
+## Updated on 2024.08.28
 ## Human Avatar
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-26**|**Avatar Concept Slider: Manipulate Concepts In Your Human Avatar With Fine-grained Control**|Yixuan He et.al.|[2408.13995](http://arxiv.org/abs/2408.13995)|null|
 |**2024-08-19**|**SG-GS: Photo-realistic Animatable Human Avatars with Semantically-Guided Gaussian Splatting**|Haoyu Zhao et.al.|[2408.09665](http://arxiv.org/abs/2408.09665)|null|
 |**2024-08-20**|**CHASE: 3D-Consistent Human Avatars with Sparse Inputs via Gaussian Splatting and Contrastive Learning**|Haoyu Zhao et.al.|[2408.09663](http://arxiv.org/abs/2408.09663)|null|
 |**2024-08-13**|**Subjective and Objective Quality Assessment of Rendered Human Avatar Videos in Virtual Reality**|Yu-Chih Chen et.al.|[2408.07041](http://arxiv.org/abs/2408.07041)|null|
@@ -72,6 +73,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-26**|**Avatar Concept Slider: Manipulate Concepts In Your Human Avatar With Fine-grained Control**|Yixuan He et.al.|[2408.13995](http://arxiv.org/abs/2408.13995)|null|
+|**2024-08-26**|**DynaSurfGS: Dynamic Surface Reconstruction with Planar-based Gaussian Splatting**|Weiwei Cai et.al.|[2408.13972](http://arxiv.org/abs/2408.13972)|**[link](https://github.com/open3dvlab/dynasurfgs)**|
+|**2024-08-25**|**Splatt3R: Zero-shot Gaussian Splatting from Uncalibarated Image Pairs**|Brandon Smart et.al.|[2408.13912](http://arxiv.org/abs/2408.13912)|null|
+|**2024-08-25**|**TranSplat: Generalizable 3D Gaussian Splatting from Sparse Multi-View Images with Transformers**|Chuanrui Zhang et.al.|[2408.13770](http://arxiv.org/abs/2408.13770)|null|
+|**2024-08-25**|**SceneDreamer360: Text-Driven 3D-Consistent Scene Generation with Panoramic Gaussian Splatting**|Wenrui Li et.al.|[2408.13711](http://arxiv.org/abs/2408.13711)|**[link](https://github.com/liwrui/scenedreamer360)**|
+|**2024-08-23**|**BiGS: Bidirectional Gaussian Primitives for Relightable 3D Gaussian Splatting**|Zhenyuan Liu et.al.|[2408.13370](http://arxiv.org/abs/2408.13370)|null|
 |**2024-08-23**|**S4D: Streaming 4D Real-World Reconstruction with Gaussians and 3D Control Points**|Bing He et.al.|[2408.13036](http://arxiv.org/abs/2408.13036)|null|
 |**2024-08-23**|**FLoD: Integrating Flexible Level of Detail into 3D Gaussian Splatting for Customizable Rendering**|Yunji Seo et.al.|[2408.12894](http://arxiv.org/abs/2408.12894)|null|
 |**2024-08-26**|**GSFusion: Online RGB-D Mapping Where Gaussian Splatting Meets TSDF Fusion**|Jiaxin Wei et.al.|[2408.12677](http://arxiv.org/abs/2408.12677)|**[link](https://github.com/goldoak/gsfusion)**|
