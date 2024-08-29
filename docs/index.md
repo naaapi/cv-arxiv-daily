@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.08.28
+## Updated on 2024.08.29
 ## Human Avatar
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -73,9 +73,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-27**|**Drone-assisted Road Gaussian Splatting with Cross-view Uncertainty**|Saining Zhang et.al.|[2408.15242](http://arxiv.org/abs/2408.15242)|**[link](https://github.com/sainingzhang/uc-gs)**|
+|**2024-08-27**|**Learning-based Multi-View Stereo: A Survey**|Fangjinhua Wang et.al.|[2408.15235](http://arxiv.org/abs/2408.15235)|null|
+|**2024-08-27**|**Robo-GS: A Physics Consistent Spatial-Temporal Model for Robotic Arm with Hybrid Representation**|Haozhe Lou et.al.|[2408.14873](http://arxiv.org/abs/2408.14873)|null|
+|**2024-08-27**|**LapisGS: Layered Progressive 3D Gaussian Splatting for Adaptive Streaming**|Yuang Shi et.al.|[2408.14823](http://arxiv.org/abs/2408.14823)|null|
 |**2024-08-26**|**Avatar Concept Slider: Manipulate Concepts In Your Human Avatar With Fine-grained Control**|Yixuan He et.al.|[2408.13995](http://arxiv.org/abs/2408.13995)|null|
 |**2024-08-26**|**DynaSurfGS: Dynamic Surface Reconstruction with Planar-based Gaussian Splatting**|Weiwei Cai et.al.|[2408.13972](http://arxiv.org/abs/2408.13972)|**[link](https://github.com/open3dvlab/dynasurfgs)**|
-|**2024-08-25**|**Splatt3R: Zero-shot Gaussian Splatting from Uncalibarated Image Pairs**|Brandon Smart et.al.|[2408.13912](http://arxiv.org/abs/2408.13912)|null|
+|**2024-08-27**|**Splatt3R: Zero-shot Gaussian Splatting from Uncalibrated Image Pairs**|Brandon Smart et.al.|[2408.13912](http://arxiv.org/abs/2408.13912)|null|
 |**2024-08-25**|**TranSplat: Generalizable 3D Gaussian Splatting from Sparse Multi-View Images with Transformers**|Chuanrui Zhang et.al.|[2408.13770](http://arxiv.org/abs/2408.13770)|null|
 |**2024-08-25**|**SceneDreamer360: Text-Driven 3D-Consistent Scene Generation with Panoramic Gaussian Splatting**|Wenrui Li et.al.|[2408.13711](http://arxiv.org/abs/2408.13711)|**[link](https://github.com/liwrui/scenedreamer360)**|
 |**2024-08-23**|**BiGS: Bidirectional Gaussian Primitives for Relightable 3D Gaussian Splatting**|Zhenyuan Liu et.al.|[2408.13370](http://arxiv.org/abs/2408.13370)|null|
