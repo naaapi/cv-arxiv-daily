@@ -1,4 +1,4 @@
-## Updated on 2024.09.02
+## Updated on 2024.09.03
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -74,12 +74,14 @@
 |**2023-11-14**|**Drivable 3D Gaussian Avatars**|Wojciech Zielonka et.al.|[2311.08581](http://arxiv.org/abs/2311.08581)|null|
 |**2023-10-19**|**Habitat 3.0: A Co-Habitat for Humans, Avatars and Robots**|Xavier Puig et.al.|[2310.13724](http://arxiv.org/abs/2310.13724)|null|
 
-<p align=right>(<a href=#updated-on-20240902>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240903>back to top</a>)</p>
 
 ## Gaussian Splatting
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-30**|**OG-Mapping: Octree-based Structured 3D Gaussians for Online Dense Mapping**|Meng Wang et.al.|[2408.17223](http://arxiv.org/abs/2408.17223)|null|
+|**2024-08-30**|**2DGH: 2D Gaussian-Hermite Splatting for High-quality Rendering and Better Geometry Reconstruction**|Ruihan Yu et.al.|[2408.16982](http://arxiv.org/abs/2408.16982)|null|
 |**2024-08-29**|**ReconX: Reconstruct Any Scene from Sparse Views with Video Diffusion Model**|Fangfu Liu et.al.|[2408.16767](http://arxiv.org/abs/2408.16767)|null|
 |**2024-08-29**|**OmniRe: Omni Urban Scene Reconstruction**|Ziyu Chen et.al.|[2408.16760](http://arxiv.org/abs/2408.16760)|null|
 |**2024-08-28**|**Towards Realistic Example-based Modeling via 3D Gaussian Stitching**|Xinyu Gao et.al.|[2408.15708](http://arxiv.org/abs/2408.15708)|null|
@@ -286,5 +288,5 @@
 |**2024-05-30**|**Deform3DGS: Flexible Deformation for Fast Surgical Scene Reconstruction with Gaussian Splatting**|Shuojue Yang et.al.|[2405.17835](http://arxiv.org/abs/2405.17835)|**[link](https://github.com/jinlab-imvr/deform3dgs)**|
 |**2024-05-28**|**Mani-GS: Gaussian Splatting Manipulation with Triangular Mesh**|Xiangjun Gao et.al.|[2405.17811](http://arxiv.org/abs/2405.17811)|null|
 
-<p align=right>(<a href=#updated-on-20240902>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240903>back to top</a>)</p>
 
