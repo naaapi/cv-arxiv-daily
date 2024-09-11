@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.09.10
+## Updated on 2024.09.11
 ## Human Avatar
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -75,6 +75,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-09**|**GASP: Gaussian Splatting for Physic-Based Simulations**|Piotr Borycki et.al.|[2409.05819](http://arxiv.org/abs/2409.05819)|null|
+|**2024-09-09**|**Lagrangian Hashing for Compressed Neural Field Representations**|Shrisudhan Govindarajan et.al.|[2409.05334](http://arxiv.org/abs/2409.05334)|null|
+|**2024-09-08**|**DreamMapping: High-Fidelity Text-to-3D Generation via Variational Distribution Mapping**|Zeyu Cai et.al.|[2409.05099](http://arxiv.org/abs/2409.05099)|null|
+|**2024-09-08**|**GS-PT: Exploiting 3D Gaussian Splatting for Comprehensive Point Cloud Understanding via Self-supervised Learning**|Keyi Liu et.al.|[2409.04963](http://arxiv.org/abs/2409.04963)|null|
+|**2024-09-07**|**Fisheye-GS: Lightweight and Extensible Gaussian Splatting Module for Fisheye Cameras**|Zimu Liao et.al.|[2409.04751](http://arxiv.org/abs/2409.04751)|null|
 |**2024-09-06**|**GST: Precise 3D Human Body from a Single Image with Gaussian Splatting Transformers**|Lorenza Prospero et.al.|[2409.04196](http://arxiv.org/abs/2409.04196)|null|
 |**2024-09-06**|**3D-GP-LMVIC: Learning-based Multi-View Image Coding with 3D Gaussian Geometric Priors**|Yujun Huang et.al.|[2409.04013](http://arxiv.org/abs/2409.04013)|null|
 |**2024-09-05**|**LM-Gaussian: Boost Sparse-view 3D Gaussian Splatting with Large Model Priors**|Hanyang Yu et.al.|[2409.03456](http://arxiv.org/abs/2409.03456)|null|
