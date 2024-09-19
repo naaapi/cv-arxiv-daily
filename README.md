@@ -1,4 +1,4 @@
-## Updated on 2024.09.18
+## Updated on 2024.09.19
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -75,12 +75,16 @@
 |**2023-11-14**|**Drivable 3D Gaussian Avatars**|Wojciech Zielonka et.al.|[2311.08581](http://arxiv.org/abs/2311.08581)|null|
 |**2023-10-19**|**Habitat 3.0: A Co-Habitat for Humans, Avatars and Robots**|Xavier Puig et.al.|[2310.13724](http://arxiv.org/abs/2310.13724)|null|
 
-<p align=right>(<a href=#updated-on-20240918>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240919>back to top</a>)</p>
 
 ## Gaussian Splatting
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-17**|**RenderWorld: World Model with Self-Supervised 3D Label**|Ziyang Yan et.al.|[2409.11356](http://arxiv.org/abs/2409.11356)|null|
+|**2024-09-17**|**GS-Net: Generalizable Plug-and-Play 3D Gaussian Splatting Module**|Yichen Zhang et.al.|[2409.11307](http://arxiv.org/abs/2409.11307)|null|
+|**2024-09-17**|**SplatFields: Neural Gaussian Splats for Sparse 3D and 4D Reconstruction**|Marko Mihajlovic et.al.|[2409.11211](http://arxiv.org/abs/2409.11211)|null|
+|**2024-09-17**|**GLC-SLAM: Gaussian Splatting SLAM with Efficient Loop Closure**|Ziheng Xu et.al.|[2409.10982](http://arxiv.org/abs/2409.10982)|null|
 |**2024-09-16**|**Phys3DGS: Physically-based 3D Gaussian Splatting for Inverse Rendering**|Euntae Choi et.al.|[2409.10335](http://arxiv.org/abs/2409.10335)|null|
 |**2024-09-16**|**BEINGS: Bayesian Embodied Image-goal Navigation with Gaussian Splatting**|Wugang Meng et.al.|[2409.10216](http://arxiv.org/abs/2409.10216)|**[link](https://github.com/guaMass/BEINGS)**|
 |**2024-09-16**|**SplatSim: Zero-Shot Sim2Real Transfer of RGB Manipulation Policies Using Gaussian Splatting**|Mohammad Nomaan Qureshi et.al.|[2409.10161](http://arxiv.org/abs/2409.10161)|null|
@@ -332,5 +336,5 @@
 |**2024-05-30**|**Deform3DGS: Flexible Deformation for Fast Surgical Scene Reconstruction with Gaussian Splatting**|Shuojue Yang et.al.|[2405.17835](http://arxiv.org/abs/2405.17835)|**[link](https://github.com/jinlab-imvr/deform3dgs)**|
 |**2024-05-28**|**Mani-GS: Gaussian Splatting Manipulation with Triangular Mesh**|Xiangjun Gao et.al.|[2405.17811](http://arxiv.org/abs/2405.17811)|null|
 
-<p align=right>(<a href=#updated-on-20240918>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240919>back to top</a>)</p>
 
