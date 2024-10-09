@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.10.08
+## Updated on 2024.10.09
 ## Human Avatar
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -76,6 +76,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-07**|**GS-VTON: Controllable 3D Virtual Try-on with Gaussian Splatting**|Yukang Cao et.al.|[2410.05259](http://arxiv.org/abs/2410.05259)|null|
+|**2024-10-07**|**LiDAR-GS:Real-time LiDAR Re-Simulation using Gaussian Splatting**|Qifeng Chen et.al.|[2410.05111](http://arxiv.org/abs/2410.05111)|null|
+|**2024-10-07**|**DreamSat: Towards a General 3D Model for Novel View Synthesis of Space Objects**|Nidhi Mathihalli et.al.|[2410.05097](http://arxiv.org/abs/2410.05097)|**[link](https://github.com/arclab-mit/space-nvs)**|
+|**2024-10-07**|**PhotoReg: Photometrically Registering 3D Gaussian Splatting Models**|Ziwen Yuan et.al.|[2410.05044](http://arxiv.org/abs/2410.05044)|null|
+|**2024-10-07**|**6DGS: Enhanced Direction-Aware Gaussian Splatting for Volumetric Rendering**|Zhongpai Gao et.al.|[2410.04974](http://arxiv.org/abs/2410.04974)|null|
+|**2024-10-07**|**Next Best Sense: Guiding Vision and Touch with FisherRF for 3D Gaussian Splatting**|Matthew Strong et.al.|[2410.04680](http://arxiv.org/abs/2410.04680)|null|
+|**2024-10-06**|**Mode-GS: Monocular Depth Guided Anchored 3D Gaussian Splatting for Robust Ground-View Scene Rendering**|Yonghan Lee et.al.|[2410.04646](http://arxiv.org/abs/2410.04646)|null|
+|**2024-10-06**|**StreetSurfGS: Scalable Urban Street Surface Reconstruction with Planar-based Gaussian Splatting**|Xiao Cui et.al.|[2410.04354](http://arxiv.org/abs/2410.04354)|null|
 |**2024-10-04**|**Variational Bayes Gaussian Splatting**|Toon Van de Maele et.al.|[2410.03592](http://arxiv.org/abs/2410.03592)|**[link](https://github.com/versestech/vbgs)**|
 |**2024-10-03**|**Flash-Splat: 3D Reflection Removal with Flash Cues and Gaussian Splats**|Mingyang Xie et.al.|[2410.02764](http://arxiv.org/abs/2410.02764)|null|
 |**2024-10-03**|**GI-GS: Global Illumination Decomposition on Gaussian Splatting for Inverse Rendering**|Hongze Chen et.al.|[2410.02619](http://arxiv.org/abs/2410.02619)|null|
