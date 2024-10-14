@@ -98,7 +98,7 @@
 |**2024-10-08**|**GSLoc: Visual Localization with 3D Gaussian Splatting**|Kazii Botashev et.al.|[2410.06165](http://arxiv.org/abs/2410.06165)|null|
 |**2024-10-08**|**SplaTraj: Camera Trajectory Generation with Semantic Gaussian Splatting**|Xinyi Liu et.al.|[2410.06014](http://arxiv.org/abs/2410.06014)|null|
 |**2024-10-08**|**Comparative Analysis of Novel View Synthesis and Photogrammetry for 3D Forest Stand Reconstruction and extraction of individual tree parameters**|Guoji Tian et.al.|[2410.05772](http://arxiv.org/abs/2410.05772)|null|
-|**2024-10-07**|**PH-Dropout: Prctical Epistemic Uncertainty Quantification for View Synthesis**|Chuanhao Sun et.al.|[2410.05468](http://arxiv.org/abs/2410.05468)|null|
+|**2024-10-07**|**PH-Dropout: Prctical Epistemic Uncertainty Quantification for View Synthesis**|Chuanhao Sun et.al.|[2410.05468](http://arxiv.org/abs/2410.05468)|**[link](https://github.com/thanostriantafyllou3/ph-dropout)**|
 |**2024-10-07**|**GS-VTON: Controllable 3D Virtual Try-on with Gaussian Splatting**|Yukang Cao et.al.|[2410.05259](http://arxiv.org/abs/2410.05259)|null|
 |**2024-10-07**|**LiDAR-GS:Real-time LiDAR Re-Simulation using Gaussian Splatting**|Qifeng Chen et.al.|[2410.05111](http://arxiv.org/abs/2410.05111)|null|
 |**2024-10-07**|**DreamSat: Towards a General 3D Model for Novel View Synthesis of Space Objects**|Nidhi Mathihalli et.al.|[2410.05097](http://arxiv.org/abs/2410.05097)|**[link](https://github.com/arclab-mit/space-nvs)**|
@@ -120,7 +120,7 @@
 |**2024-10-02**|**UW-GS: Distractor-Aware 3D Gaussian Splatting for Enhanced Underwater Scene Reconstruction**|Haoran Wang et.al.|[2410.01517](http://arxiv.org/abs/2410.01517)|null|
 |**2024-10-02**|**EVA-Gaussian: 3D Gaussian-based Real-time Human Novel View Synthesis under Diverse Camera Settings**|Yingdong Hu et.al.|[2410.01425](http://arxiv.org/abs/2410.01425)|null|
 |**2024-10-02**|**Gaussian-Det: Learning Closed-Surface Gaussians for 3D Object Detection**|Hongru Yan et.al.|[2410.01404](http://arxiv.org/abs/2410.01404)|null|
-|**2024-10-02**|**CaRtGS: Computational Alignment for Real-Time Gaussian Splatting SLAM**|Dapeng Feng et.al.|[2410.00486](http://arxiv.org/abs/2410.00486)|null|
+|**2024-10-02**|**CaRtGS: Computational Alignment for Real-Time Gaussian Splatting SLAM**|Dapeng Feng et.al.|[2410.00486](http://arxiv.org/abs/2410.00486)|**[link](https://github.com/DapengFeng/cartgs)**|
 |**2024-10-01**|**Seamless Augmented Reality Integration in Arthroscopy: A Pipeline for Articular Reconstruction and Guidance**|Hongchao Shu et.al.|[2410.00386](http://arxiv.org/abs/2410.00386)|null|
 |**2024-09-30**|**RL-GSBridge: 3D Gaussian Splatting Based Real2Sim2Real Method for Robotic Manipulation Learning**|Yuxuan Wu et.al.|[2409.20291](http://arxiv.org/abs/2409.20291)|null|
 |**2024-09-30**|**Robust Gaussian Splatting SLAM by Leveraging Loop Closure**|Zunjie Zhu et.al.|[2409.20111](http://arxiv.org/abs/2409.20111)|null|
@@ -205,7 +205,7 @@
 |**2024-08-29**|**ReconX: Reconstruct Any Scene from Sparse Views with Video Diffusion Model**|Fangfu Liu et.al.|[2408.16767](http://arxiv.org/abs/2408.16767)|null|
 |**2024-08-29**|**OmniRe: Omni Urban Scene Reconstruction**|Ziyu Chen et.al.|[2408.16760](http://arxiv.org/abs/2408.16760)|null|
 |**2024-08-28**|**Towards Realistic Example-based Modeling via 3D Gaussian Stitching**|Xinyu Gao et.al.|[2408.15708](http://arxiv.org/abs/2408.15708)|null|
-|**2024-08-28**|**G-Style: Stylized Gaussian Splatting**|Áron Samuel Kovács et.al.|[2408.15695](http://arxiv.org/abs/2408.15695)|null|
+|**2024-08-28**|**G-Style: Stylized Gaussian Splatting**|Áron Samuel Kovács et.al.|[2408.15695](http://arxiv.org/abs/2408.15695)|**[link](https://github.com/AronKovacs/g-style)**|
 |**2024-08-27**|**Drone-assisted Road Gaussian Splatting with Cross-view Uncertainty**|Saining Zhang et.al.|[2408.15242](http://arxiv.org/abs/2408.15242)|**[link](https://github.com/sainingzhang/uc-gs)**|
 |**2024-08-27**|**Learning-based Multi-View Stereo: A Survey**|Fangjinhua Wang et.al.|[2408.15235](http://arxiv.org/abs/2408.15235)|null|
 |**2024-08-27**|**Robo-GS: A Physics Consistent Spatial-Temporal Model for Robotic Arm with Hybrid Representation**|Haozhe Lou et.al.|[2408.14873](http://arxiv.org/abs/2408.14873)|null|
