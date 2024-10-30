@@ -2,11 +2,12 @@
 layout: default
 ---
 
-## Updated on 2024.10.29
+## Updated on 2024.10.30
 ## Human Avatar
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-28**|**LoDAvatar: Hierarchical Embedding and Adaptive Levels of Detail with Gaussian Splatting for Enhanced Human Avatars**|Xiaonuo Dongye et.al.|[2410.20789](http://arxiv.org/abs/2410.20789)|null|
 |**2024-10-23**|**Efficient Neural Implicit Representation for 3D Human Reconstruction**|Zexu Huang et.al.|[2410.17741](http://arxiv.org/abs/2410.17741)|**[link](https://github.com/HZXu-526/Human-Avatar)**|
 |**2024-09-23**|**Human Hair Reconstruction with Strand-Aligned 3D Gaussians**|Egor Zakharov et.al.|[2409.14778](http://arxiv.org/abs/2409.14778)|null|
 |**2024-09-02**|**AMG: Avatar Motion Guided Video Generation**|Zhangsihao Yang et.al.|[2409.01502](http://arxiv.org/abs/2409.01502)|**[link](https://github.com/zshyang/amg)**|
@@ -77,6 +78,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-28**|**Grid4D: 4D Decomposed Hash Encoding for High-fidelity Dynamic Gaussian Splatting**|Jiawei Xu et.al.|[2410.20815](http://arxiv.org/abs/2410.20815)|null|
+|**2024-10-28**|**LoDAvatar: Hierarchical Embedding and Adaptive Levels of Detail with Gaussian Splatting for Enhanced Human Avatars**|Xiaonuo Dongye et.al.|[2410.20789](http://arxiv.org/abs/2410.20789)|null|
+|**2024-10-28**|**CompGS: Unleashing 2D Compositionality for Compositional Text-to-3D via Dynamically Optimizing 3D Gaussians**|Chongjian Ge et.al.|[2410.20723](http://arxiv.org/abs/2410.20723)|null|
+|**2024-10-28**|**ODGS: 3D Scene Reconstruction from Omnidirectional Images with 3D Gaussian Splattings**|Suyoung Lee et.al.|[2410.20686](http://arxiv.org/abs/2410.20686)|null|
+|**2024-10-27**|**Normal-GS: 3D Gaussian Splatting with Normal-Involved Rendering**|Meng Wei et.al.|[2410.20593](http://arxiv.org/abs/2410.20593)|null|
+|**2024-10-26**|**Neural Fields in Robotics: A Survey**|Muhammad Zubair Irshad et.al.|[2410.20220](http://arxiv.org/abs/2410.20220)|null|
 |**2024-10-25**|**DiffGS: Functional Gaussian Splatting Diffusion**|Junsheng Zhou et.al.|[2410.19657](http://arxiv.org/abs/2410.19657)|null|
 |**2024-10-25**|**Robotic Learning in your Backyard: A Neural Simulator from Open Source Components**|Liyou Zhou et.al.|[2410.19564](http://arxiv.org/abs/2410.19564)|null|
 |**2024-10-25**|**Content-Aware Radiance Fields: Aligning Model Complexity with Scene Intricacy Through Learned Bitwidth Quantization**|Weihang Liu et.al.|[2410.19483](http://arxiv.org/abs/2410.19483)|**[link](https://github.com/weihangliu2024/content_aware_nerf)**|
