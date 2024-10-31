@@ -1,4 +1,4 @@
-## Updated on 2024.10.30
+## Updated on 2024.10.31
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -11,6 +11,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-29**|**Effects of Human Avatar Representation in Virtual Reality on Inter-Brain Connection**|Enes Yigitbas et.al.|[2410.21894](http://arxiv.org/abs/2410.21894)|null|
 |**2024-10-28**|**LoDAvatar: Hierarchical Embedding and Adaptive Levels of Detail with Gaussian Splatting for Enhanced Human Avatars**|Xiaonuo Dongye et.al.|[2410.20789](http://arxiv.org/abs/2410.20789)|null|
 |**2024-10-23**|**Efficient Neural Implicit Representation for 3D Human Reconstruction**|Zexu Huang et.al.|[2410.17741](http://arxiv.org/abs/2410.17741)|**[link](https://github.com/HZXu-526/Human-Avatar)**|
 |**2024-09-23**|**Human Hair Reconstruction with Strand-Aligned 3D Gaussians**|Egor Zakharov et.al.|[2409.14778](http://arxiv.org/abs/2409.14778)|null|
@@ -78,12 +79,16 @@
 |**2023-11-14**|**Drivable 3D Gaussian Avatars**|Wojciech Zielonka et.al.|[2311.08581](http://arxiv.org/abs/2311.08581)|null|
 |**2023-10-19**|**Habitat 3.0: A Co-Habitat for Humans, Avatars and Robots**|Xavier Puig et.al.|[2310.13724](http://arxiv.org/abs/2310.13724)|null|
 
-<p align=right>(<a href=#updated-on-20241030>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241031>back to top</a>)</p>
 
 ## Gaussian Splatting
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-29**|**PF3plat: Pose-Free Feed-Forward 3D Gaussian Splatting**|Sunghwan Hong et.al.|[2410.22128](http://arxiv.org/abs/2410.22128)|**[link](https://github.com/cvlab-kaist/PF3plat)**|
+|**2024-10-29**|**FreeGaussian: Guidance-free Controllable 3D Gaussian Splats with Flow Derivatives**|Qizhi Chen et.al.|[2410.22070](http://arxiv.org/abs/2410.22070)|null|
+|**2024-10-29**|**ActiveSplat: High-Fidelity Scene Reconstruction through Active Gaussian Splatting**|Yuetao Li et.al.|[2410.21955](http://arxiv.org/abs/2410.21955)|null|
+|**2024-10-28**|**MVSDet: Multi-View Indoor 3D Object Detection via Efficient Plane Sweeps**|Yating Xu et.al.|[2410.21566](http://arxiv.org/abs/2410.21566)|**[link](https://github.com/pixie8888/mvsdet)**|
 |**2024-10-28**|**Grid4D: 4D Decomposed Hash Encoding for High-fidelity Dynamic Gaussian Splatting**|Jiawei Xu et.al.|[2410.20815](http://arxiv.org/abs/2410.20815)|null|
 |**2024-10-28**|**LoDAvatar: Hierarchical Embedding and Adaptive Levels of Detail with Gaussian Splatting for Enhanced Human Avatars**|Xiaonuo Dongye et.al.|[2410.20789](http://arxiv.org/abs/2410.20789)|null|
 |**2024-10-28**|**CompGS: Unleashing 2D Compositionality for Compositional Text-to-3D via Dynamically Optimizing 3D Gaussians**|Chongjian Ge et.al.|[2410.20723](http://arxiv.org/abs/2410.20723)|null|
@@ -461,5 +466,5 @@
 |**2024-05-30**|**Deform3DGS: Flexible Deformation for Fast Surgical Scene Reconstruction with Gaussian Splatting**|Shuojue Yang et.al.|[2405.17835](http://arxiv.org/abs/2405.17835)|**[link](https://github.com/jinlab-imvr/deform3dgs)**|
 |**2024-05-28**|**Mani-GS: Gaussian Splatting Manipulation with Triangular Mesh**|Xiangjun Gao et.al.|[2405.17811](http://arxiv.org/abs/2405.17811)|null|
 
-<p align=right>(<a href=#updated-on-20241030>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241031>back to top</a>)</p>
 
