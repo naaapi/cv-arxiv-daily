@@ -1,4 +1,4 @@
-## Updated on 2024.12.12
+## Updated on 2024.12.13
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -11,6 +11,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-10**|**How Can I Assist You Today?: A Comparative Analysis of a Humanoid Robot and a Virtual Human Avatar in Human Perception**|Bora Tarlan et.al.|[2412.07912](http://arxiv.org/abs/2412.07912)|null|
 |**2024-12-06**|**PBDyG: Position Based Dynamic Gaussians for Motion-Aware Clothed Human Avatars**|Shota Sasaki et.al.|[2412.04433](http://arxiv.org/abs/2412.04433)|null|
 |**2024-12-03**|**AniGS: Animatable Gaussian Avatar from a Single Image with Inconsistent Gaussian Reconstruction**|Lingteng Qiu et.al.|[2412.02684](http://arxiv.org/abs/2412.02684)|null|
 |**2024-12-01**|**SAGA: Surface-Aligned Gaussian Avatar**|Ronghan Chen et.al.|[2412.00845](http://arxiv.org/abs/2412.00845)|null|
@@ -89,19 +90,22 @@
 |**2023-11-14**|**Drivable 3D Gaussian Avatars**|Wojciech Zielonka et.al.|[2311.08581](http://arxiv.org/abs/2311.08581)|null|
 |**2023-10-19**|**Habitat 3.0: A Co-Habitat for Humans, Avatars and Robots**|Xavier Puig et.al.|[2310.13724](http://arxiv.org/abs/2310.13724)|null|
 
-<p align=right>(<a href=#updated-on-20241212>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241213>back to top</a>)</p>
 
 ## Gaussian Splatting
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-11**|**SLGaussian: Fast Language Gaussian Splatting in Sparse Views**|Kangjie Chen et.al.|[2412.08331](http://arxiv.org/abs/2412.08331)|null|
+|**2024-12-11**|**ProGDF: Progressive Gaussian Differential Field for Controllable and Flexible 3D Editing**|Yian Zhao et.al.|[2412.08152](http://arxiv.org/abs/2412.08152)|null|
+|**2024-12-10**|**Diffusion-Based Attention Warping for Consistent 3D Scene Editing**|Eyal Gomel et.al.|[2412.07984](http://arxiv.org/abs/2412.07984)|null|
 |**2024-12-10**|**GASP: Gaussian Avatars with Synthetic Priors**|Jack Saunders et.al.|[2412.07739](http://arxiv.org/abs/2412.07739)|null|
 |**2024-12-10**|**Proc-GS: Procedural Building Generation for City Assembly with 3D Gaussians**|Yixuan Li et.al.|[2412.07660](http://arxiv.org/abs/2412.07660)|null|
 |**2024-12-10**|**Faster and Better 3D Splatting via Group Training**|Chengbo Wang et.al.|[2412.07608](http://arxiv.org/abs/2412.07608)|null|
 |**2024-12-10**|**ResGS: Residual Densification of 3D Gaussian for Efficient Detail Recovery**|Yanzhe Lyu et.al.|[2412.07494](http://arxiv.org/abs/2412.07494)|null|
 |**2024-12-10**|**EventSplat: 3D Gaussian Splatting from Moving Event Cameras for Real-time Rendering**|Toshiya Yura et.al.|[2412.07293](http://arxiv.org/abs/2412.07293)|null|
 |**2024-12-09**|**MV-DUSt3R+: Single-Stage Scene Reconstruction from Sparse Views In 2 Seconds**|Zhenggang Tang et.al.|[2412.06974](http://arxiv.org/abs/2412.06974)|null|
-|**2024-12-09**|**Deblur4DGS: 4D Gaussian Splatting from Blurry Monocular Video**|Renlong Wu et.al.|[2412.06424](http://arxiv.org/abs/2412.06424)|null|
+|**2024-12-09**|**Deblur4DGS: 4D Gaussian Splatting from Blurry Monocular Video**|Renlong Wu et.al.|[2412.06424](http://arxiv.org/abs/2412.06424)|**[link](https://github.com/zcsrenlongz/deblur4dgs)**|
 |**2024-12-09**|**4D Gaussian Splatting with Scale-aware Residual Field and Adaptive Optimization for Real-time Rendering of Temporally Complex Dynamic Scenes**|Jinbo Yan et.al.|[2412.06299](http://arxiv.org/abs/2412.06299)|null|
 |**2024-12-09**|**Advancing Extended Reality with 3D Gaussian Splatting: Innovations and Prospects**|Shi Qiu et.al.|[2412.06257](http://arxiv.org/abs/2412.06257)|null|
 |**2024-12-09**|**Splatter-360: Generalizable 360 $^{\circ}$ Gaussian Splatting for Wide-baseline Panoramic Images**|Zheng Chen et.al.|[2412.06250](http://arxiv.org/abs/2412.06250)|**[link](https://github.com/thucz/splatter360)**|
@@ -634,5 +638,5 @@
 |**2024-05-30**|**Deform3DGS: Flexible Deformation for Fast Surgical Scene Reconstruction with Gaussian Splatting**|Shuojue Yang et.al.|[2405.17835](http://arxiv.org/abs/2405.17835)|**[link](https://github.com/jinlab-imvr/deform3dgs)**|
 |**2024-05-28**|**Mani-GS: Gaussian Splatting Manipulation with Triangular Mesh**|Xiangjun Gao et.al.|[2405.17811](http://arxiv.org/abs/2405.17811)|null|
 
-<p align=right>(<a href=#updated-on-20241212>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241213>back to top</a>)</p>
 
