@@ -1,4 +1,4 @@
-## Updated on 2024.12.31
+## Updated on 2025.01.01
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -93,12 +93,18 @@
 |**2023-11-14**|**Drivable 3D Gaussian Avatars**|Wojciech Zielonka et.al.|[2311.08581](http://arxiv.org/abs/2311.08581)|null|
 |**2023-10-19**|**Habitat 3.0: A Co-Habitat for Humans, Avatars and Robots**|Xavier Puig et.al.|[2310.13724](http://arxiv.org/abs/2310.13724)|null|
 
-<p align=right>(<a href=#updated-on-20241231>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250101>back to top</a>)</p>
 
 ## Gaussian Splatting
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-30**|**PERSE: Personalized 3D Generative Avatars from A Single Portrait**|Hyunsoo Cha et.al.|[2412.21206](http://arxiv.org/abs/2412.21206)|null|
+|**2024-12-30**|**KeyGS: A Keyframe-Centric Gaussian Splatting Method for Monocular Image Sequences**|Keng-Wei Chang et.al.|[2412.20767](http://arxiv.org/abs/2412.20767)|null|
+|**2024-12-30**|**4D Gaussian Splatting: Modeling Dynamic Scenes with Native 4D Primitives**|Zeyu Yang et.al.|[2412.20720](http://arxiv.org/abs/2412.20720)|null|
+|**2024-12-29**|**MaskGaussian: Adaptive 3D Gaussian Representation from Probabilistic Masks**|Yifei Liu et.al.|[2412.20522](http://arxiv.org/abs/2412.20522)|null|
+|**2024-12-28**|**DEGSTalk: Decomposed Per-Embedding Gaussian Fields for Hair-Preserving Talking Face Synthesis**|Kaijun Deng et.al.|[2412.20148](http://arxiv.org/abs/2412.20148)|**[link](https://github.com/cvi-szu/degstalk)**|
+|**2024-12-28**|**GSplatLoc: Ultra-Precise Camera Localization via 3D Gaussian Splatting**|Atticus J. Zeller et.al.|[2412.20056](http://arxiv.org/abs/2412.20056)|**[link](https://github.com/atticuszeller/gsplatloc)**|
 |**2024-12-27**|**DAS3R: Dynamics-Aware Gaussian Splatting for Static Scene Reconstruction**|Kai Xu et.al.|[2412.19584](http://arxiv.org/abs/2412.19584)|null|
 |**2024-12-27**|**Dust to Tower: Coarse-to-Fine Photo-Realistic Scene Reconstruction from Sparse Uncalibrated Images**|Xudong Cai et.al.|[2412.19518](http://arxiv.org/abs/2412.19518)|null|
 |**2024-12-27**|**Learning Radiance Fields from a Single Snapshot Compressive Image**|Yunhao Li et.al.|[2412.19483](http://arxiv.org/abs/2412.19483)|null|
@@ -704,5 +710,5 @@
 |**2024-05-30**|**Deform3DGS: Flexible Deformation for Fast Surgical Scene Reconstruction with Gaussian Splatting**|Shuojue Yang et.al.|[2405.17835](http://arxiv.org/abs/2405.17835)|**[link](https://github.com/jinlab-imvr/deform3dgs)**|
 |**2024-05-28**|**Mani-GS: Gaussian Splatting Manipulation with Triangular Mesh**|Xiangjun Gao et.al.|[2405.17811](http://arxiv.org/abs/2405.17811)|null|
 
-<p align=right>(<a href=#updated-on-20241231>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250101>back to top</a>)</p>
 
