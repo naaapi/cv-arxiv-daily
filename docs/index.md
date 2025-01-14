@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.01.13
+## Updated on 2025.01.14
 ## Human Avatar
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -93,6 +93,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-10**|**Locality-aware Gaussian Compression for Fast and High-quality Rendering**|Seungjoo Shin et.al.|[2501.05757](http://arxiv.org/abs/2501.05757)|null|
 |**2025-01-09**|**Zero-1-to-G: Taming Pretrained 2D Diffusion Model for Direct 3D Generation**|Xuyi Meng et.al.|[2501.05427](http://arxiv.org/abs/2501.05427)|null|
 |**2025-01-09**|**Arc2Avatar: Generating Expressive 3D Avatars from a Single Image via ID Guidance**|Dimitrios Gerogiannis et.al.|[2501.05379](http://arxiv.org/abs/2501.05379)|null|
 |**2025-01-09**|**Scaffold-SLAM: Structured 3D Gaussians for Simultaneous Localization and Photorealistic Mapping**|Wen Tianci et.al.|[2501.05242](http://arxiv.org/abs/2501.05242)|null|
