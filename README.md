@@ -1,4 +1,4 @@
-## Updated on 2025.01.23
+## Updated on 2025.01.24
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -94,15 +94,16 @@
 |**2023-11-14**|**Drivable 3D Gaussian Avatars**|Wojciech Zielonka et.al.|[2311.08581](http://arxiv.org/abs/2311.08581)|null|
 |**2023-10-19**|**Habitat 3.0: A Co-Habitat for Humans, Avatars and Robots**|Xavier Puig et.al.|[2310.13724](http://arxiv.org/abs/2310.13724)|null|
 
-<p align=right>(<a href=#updated-on-20250123>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250124>back to top</a>)</p>
 
 ## Gaussian Splatting
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-22**|**Sketch and Patch: Efficient 3D Gaussian Representation for Man-Made Scenes**|Yuang Shi et.al.|[2501.13045](http://arxiv.org/abs/2501.13045)|null|
 |**2025-01-21**|**DARB-Splatting: Generalizing Splatting with Decaying Anisotropic Radial Basis Functions**|Vishagar Arunan et.al.|[2501.12369](http://arxiv.org/abs/2501.12369)|null|
-|**2025-01-21**|**HAC++: Towards 100X Compression of 3D Gaussian Splatting**|Yihang Chen et.al.|[2501.12255](http://arxiv.org/abs/2501.12255)|**[link](https://github.com/yihangchen-ee/hac-plus)**|
-|**2025-01-21**|**GaussianVideo: Efficient Video Representation Through 2D Gaussian Splatting**|Longan Wang et.al.|[2501.12060](http://arxiv.org/abs/2501.12060)|null|
+|**2025-01-22**|**HAC++: Towards 100X Compression of 3D Gaussian Splatting**|Yihang Chen et.al.|[2501.12255](http://arxiv.org/abs/2501.12255)|**[link](https://github.com/yihangchen-ee/hac-plus)**|
+|**2025-01-22**|**GSVC: Efficient Video Representation and Compression Through 2D Gaussian Splatting**|Longan Wang et.al.|[2501.12060](http://arxiv.org/abs/2501.12060)|null|
 |**2025-01-20**|**See In Detail: Enhancing Sparse-view 3D Gaussian Splatting with Local Depth and Semantic Regularization**|Zongqi He et.al.|[2501.11508](http://arxiv.org/abs/2501.11508)|null|
 |**2025-01-19**|**RDG-GS: Relative Depth Guidance with Gaussian Splatting for Real-time Sparse-View 3D Rendering**|Chenlu Zhan et.al.|[2501.11102](http://arxiv.org/abs/2501.11102)|null|
 |**2025-01-18**|**Decoupling Appearance Variations with 3D Consistent Features in Gaussian Splatting**|Jiaqi Lin et.al.|[2501.10788](http://arxiv.org/abs/2501.10788)|null|
@@ -760,5 +761,5 @@
 |**2024-05-30**|**Deform3DGS: Flexible Deformation for Fast Surgical Scene Reconstruction with Gaussian Splatting**|Shuojue Yang et.al.|[2405.17835](http://arxiv.org/abs/2405.17835)|**[link](https://github.com/jinlab-imvr/deform3dgs)**|
 |**2024-05-28**|**Mani-GS: Gaussian Splatting Manipulation with Triangular Mesh**|Xiangjun Gao et.al.|[2405.17811](http://arxiv.org/abs/2405.17811)|null|
 
-<p align=right>(<a href=#updated-on-20250123>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250124>back to top</a>)</p>
 
