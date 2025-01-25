@@ -2,11 +2,12 @@
 layout: default
 ---
 
-## Updated on 2025.01.24
+## Updated on 2025.01.25
 ## Human Avatar
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-23**|**Deblur-Avatar: Animatable Avatars from Motion-Blurred Monocular Videos**|Xianrui Luo et.al.|[2501.13335](http://arxiv.org/abs/2501.13335)|null|
 |**2025-01-13**|**RMAvatar: Photorealistic Human Avatar Reconstruction from Monocular Video Based on Rectified Mesh-embedded Gaussians**|Sen Peng et.al.|[2501.07104](http://arxiv.org/abs/2501.07104)|null|
 |**2024-12-21**|**SqueezeMe: Efficient Gaussian Avatars for VR**|Shunsuke Saito et.al.|[2412.15171](http://arxiv.org/abs/2412.15171)|null|
 |**2024-12-16**|**3D $^2$ -Actor: Learning Pose-Conditioned 3D-Aware Denoiser for Realistic Gaussian Avatar Modeling**|Zichen Tang et.al.|[2412.11599](http://arxiv.org/abs/2412.11599)|**[link](https://github.com/silence-tang/gaussianactor)**|
@@ -94,6 +95,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-23**|**GoDe: Gaussians on Demand for Progressive Level of Detail and Scalable Compression**|Francesco Di Sario et.al.|[2501.13558](http://arxiv.org/abs/2501.13558)|null|
+|**2025-01-23**|**MultiDreamer3D: Multi-concept 3D Customization with Concept-Aware Diffusion Guidance**|Wooseok Song et.al.|[2501.13449](http://arxiv.org/abs/2501.13449)|null|
+|**2025-01-23**|**GeomGS: LiDAR-Guided Geometry-Aware Gaussian Splatting for Robot Localization**|Jaewon Lee et.al.|[2501.13417](http://arxiv.org/abs/2501.13417)|null|
+|**2025-01-23**|**VIGS SLAM: IMU-based Large-Scale 3D Gaussian Splatting SLAM**|Gyuhyeon Pak et.al.|[2501.13402](http://arxiv.org/abs/2501.13402)|null|
+|**2025-01-23**|**Deblur-Avatar: Animatable Avatars from Motion-Blurred Monocular Videos**|Xianrui Luo et.al.|[2501.13335](http://arxiv.org/abs/2501.13335)|null|
 |**2025-01-22**|**Sketch and Patch: Efficient 3D Gaussian Representation for Man-Made Scenes**|Yuang Shi et.al.|[2501.13045](http://arxiv.org/abs/2501.13045)|null|
 |**2025-01-21**|**DARB-Splatting: Generalizing Splatting with Decaying Anisotropic Radial Basis Functions**|Vishagar Arunan et.al.|[2501.12369](http://arxiv.org/abs/2501.12369)|null|
 |**2025-01-22**|**HAC++: Towards 100X Compression of 3D Gaussian Splatting**|Yihang Chen et.al.|[2501.12255](http://arxiv.org/abs/2501.12255)|**[link](https://github.com/yihangchen-ee/hac-plus)**|
