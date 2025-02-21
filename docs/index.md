@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.02.20
+## Updated on 2025.02.21
 ## Human Avatar
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -100,6 +100,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-19**|**3D Gaussian Splatting aided Localization for Large and Complex Indoor-Environments**|Vincent Ress et.al.|[2502.13803](http://arxiv.org/abs/2502.13803)|null|
+|**2025-02-18**|**GS-QA: Comprehensive Quality Assessment Benchmark for Gaussian Splatting View Synthesis**|Pedro Martin et.al.|[2502.13196](http://arxiv.org/abs/2502.13196)|null|
 |**2025-02-18**|**RadSplatter: Extending 3D Gaussian Splatting to Radio Frequencies for Wireless Radiomap Extrapolation**|Yiheng Wang et.al.|[2502.12686](http://arxiv.org/abs/2502.12686)|null|
 |**2025-02-17**|**PUGS: Zero-shot Physical Understanding with Gaussian Splatting**|Yinghao Shuai et.al.|[2502.12231](http://arxiv.org/abs/2502.12231)|null|
 |**2025-02-17**|**3D Gaussian Inpainting with Depth-Guided Cross-View Consistency**|Sheng-Yu Huang et.al.|[2502.11801](http://arxiv.org/abs/2502.11801)|null|
