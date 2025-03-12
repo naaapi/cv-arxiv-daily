@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.03.11
+## Updated on 2025.03.12
 ## Human Avatar
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -101,6 +101,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-10**|**SOGS: Second-Order Anchor for Advanced 3D Gaussian Splatting**|Jiahui Zhang et.al.|[2503.07476](http://arxiv.org/abs/2503.07476)|null|
+|**2025-03-10**|**EigenGS Representation: From Eigenspace to Gaussian Image Space**|Lo-Wei Tai et.al.|[2503.07446](http://arxiv.org/abs/2503.07446)|null|
+|**2025-03-10**|**All That Glitters Is Not Gold: Key-Secured 3D Secrets within 3D Gaussian Splatting**|Yan Ren et.al.|[2503.07191](http://arxiv.org/abs/2503.07191)|null|
+|**2025-03-10**|**Multi-Modal 3D Mesh Reconstruction from Images and Text**|Melvin Reka et.al.|[2503.07190](http://arxiv.org/abs/2503.07190)|null|
+|**2025-03-10**|**Frequency-Aware Density Control via Reparameterization for High-Quality Rendering of 3D Gaussian Splatting**|Zhaojie Zeng et.al.|[2503.07000](http://arxiv.org/abs/2503.07000)|null|
+|**2025-03-10**|**DirectTriGS: Triplane-based Gaussian Splatting Field Representation for 3D Generation**|Xiaoliang Ju et.al.|[2503.06900](http://arxiv.org/abs/2503.06900)|null|
+|**2025-03-10**|**ActiveInitSplat: How Active Image Selection Helps Gaussian Splatting**|Konstantinos D. Polyzos et.al.|[2503.06859](http://arxiv.org/abs/2503.06859)|null|
+|**2025-03-09**|**Gaussian RBFNet: Gaussian Radial Basis Functions for Fast and Accurate Representation and Reconstruction of Neural Fields**|Abdelaziz Bouzidi et.al.|[2503.06762](http://arxiv.org/abs/2503.06762)|null|
+|**2025-03-09**|**CoDa-4DGS: Dynamic Gaussian Splatting with Context and Deformation Awareness for Autonomous Driving**|Rui Song et.al.|[2503.06744](http://arxiv.org/abs/2503.06744)|null|
+|**2025-03-09**|**D3DR: Lighting-Aware Object Insertion in Gaussian Splatting**|Vsevolod Skorokhodov et.al.|[2503.06740](http://arxiv.org/abs/2503.06740)|null|
 |**2025-03-07**|**D2GV: Deformable 2D Gaussian Splatting for Video Representation in 400FPS**|Mufan Liu et.al.|[2503.05600](http://arxiv.org/abs/2503.05600)|null|
 |**2025-03-07**|**Free Your Hands: Lightweight Relightable Turntable Capture Pipeline**|Jiahui Fan et.al.|[2503.05511](http://arxiv.org/abs/2503.05511)|null|
 |**2025-03-07**|**LiDAR-enhanced 3D Gaussian Splatting Mapping**|Jian Shen et.al.|[2503.05425](http://arxiv.org/abs/2503.05425)|null|
