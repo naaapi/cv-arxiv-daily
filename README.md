@@ -1,4 +1,4 @@
-## Updated on 2025.03.13
+## Updated on 2025.03.14
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -11,6 +11,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-12**|**Better Together: Unified Motion Capture and 3D Avatar Reconstruction**|Arthur Moreau et.al.|[2503.09293](http://arxiv.org/abs/2503.09293)|null|
 |**2025-03-11**|**Multimodal Generation of Animatable 3D Human Models with AvatarForge**|Xinhang Liu et.al.|[2503.08165](http://arxiv.org/abs/2503.08165)|null|
 |**2025-03-03**|**Vid2Avatar-Pro: Authentic Avatar from Videos in the Wild via Universal Prior**|Chen Guo et.al.|[2503.01610](http://arxiv.org/abs/2503.01610)|null|
 |**2025-02-21**|**HumanGif: Single-View Human Diffusion with Generative Prior**|Shoukang Hu et.al.|[2502.12080](http://arxiv.org/abs/2502.12080)|**[link](https://github.com/skhu101/humangif)**|
@@ -102,12 +103,18 @@
 |**2023-11-14**|**Drivable 3D Gaussian Avatars**|Wojciech Zielonka et.al.|[2311.08581](http://arxiv.org/abs/2311.08581)|null|
 |**2023-10-19**|**Habitat 3.0: A Co-Habitat for Humans, Avatars and Robots**|Xavier Puig et.al.|[2310.13724](http://arxiv.org/abs/2310.13724)|null|
 
-<p align=right>(<a href=#updated-on-20250313>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250314>back to top</a>)</p>
 
 ## Gaussian Splatting
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-12**|**Hybrid Rendering for Multimodal Autonomous Driving: Merging Neural and Physics-Based Simulation**|Máté Tóth et.al.|[2503.09464](http://arxiv.org/abs/2503.09464)|null|
+|**2025-03-12**|**Online Language Splatting**|Saimouli Katragadda et.al.|[2503.09447](http://arxiv.org/abs/2503.09447)|null|
+|**2025-03-12**|**Close-up-GS: Enhancing Close-Up View Synthesis in 3D Gaussian Splatting with Progressive Self-Training**|Jiatong Xia et.al.|[2503.09396](http://arxiv.org/abs/2503.09396)|null|
+|**2025-03-12**|**GASPACHO: Gaussian Splatting for Controllable Humans and Objects**|Aymen Mir et.al.|[2503.09342](http://arxiv.org/abs/2503.09342)|null|
+|**2025-03-12**|**SDD-4DGS: Static-Dynamic Aware Decoupling in Gaussian Splatting for 4D Scene Reconstruction**|Dai Sun et.al.|[2503.09332](http://arxiv.org/abs/2503.09332)|null|
+|**2025-03-12**|**Motion Blender Gaussian Splatting for Dynamic Reconstruction**|Xinyu Zhang et.al.|[2503.09040](http://arxiv.org/abs/2503.09040)|null|
 |**2025-03-11**|**PCGS: Progressive Compression of 3D Gaussian Splatting**|Yihang Chen et.al.|[2503.08511](http://arxiv.org/abs/2503.08511)|null|
 |**2025-03-11**|**TT-GaussOcc: Test-Time Compute for Self-Supervised Occupancy Prediction via Spatio-Temporal Gaussian Splatting**|Fengyi Zhang et.al.|[2503.08485](http://arxiv.org/abs/2503.08485)|null|
 |**2025-03-11**|**Mitigating Ambiguities in 3D Classification with Gaussian Splatting**|Ruiqi Zhang et.al.|[2503.08352](http://arxiv.org/abs/2503.08352)|null|
@@ -905,5 +912,5 @@
 |**2024-05-30**|**Deform3DGS: Flexible Deformation for Fast Surgical Scene Reconstruction with Gaussian Splatting**|Shuojue Yang et.al.|[2405.17835](http://arxiv.org/abs/2405.17835)|**[link](https://github.com/jinlab-imvr/deform3dgs)**|
 |**2024-05-28**|**Mani-GS: Gaussian Splatting Manipulation with Triangular Mesh**|Xiangjun Gao et.al.|[2405.17811](http://arxiv.org/abs/2405.17811)|null|
 
-<p align=right>(<a href=#updated-on-20250313>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250314>back to top</a>)</p>
 
