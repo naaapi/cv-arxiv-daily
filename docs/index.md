@@ -2,12 +2,12 @@
 layout: default
 ---
 
-## Updated on 2025.03.29
+## Updated on 2025.03.30
 ## Human Avatar
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-03-24**|**FRESA:Feedforward Reconstruction of Personalized Skinned Avatars from Few Images**|Rong Wang et.al.|[2503.19207](http://arxiv.org/abs/2503.19207)|null|
+|**2025-03-24**|**FRESA:Feedforward Reconstruction of Personalized Skinned Avatars from Few Images**|Rong Wang et.al.|[2503.19207](http://arxiv.org/abs/2503.19207)|**[link](https://github.com/rongakowang/fresa)**|
 |**2025-03-24**|**Fast and Physically-based Neural Explicit Surface for Relightable Human Avatars**|Jiacheng Wu et.al.|[2503.18408](http://arxiv.org/abs/2503.18408)|null|
 |**2025-03-17**|**R3-Avatar: Record and Retrieve Temporal Codebook for Reconstructing Photorealistic Human Avatars**|Yifan Zhan et.al.|[2503.12751](http://arxiv.org/abs/2503.12751)|null|
 |**2025-03-15**|**RePerformer: Immersive Human-centric Volumetric Videos from Playback to Photoreal Reperformance**|Yuheng Jiang et.al.|[2503.12242](http://arxiv.org/abs/2503.12242)|null|
