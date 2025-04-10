@@ -1,4 +1,4 @@
-## Updated on 2025.04.09
+## Updated on 2025.04.10
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -110,12 +110,15 @@
 |**2023-11-14**|**Drivable 3D Gaussian Avatars**|Wojciech Zielonka et.al.|[2311.08581](http://arxiv.org/abs/2311.08581)|null|
 |**2023-10-19**|**Habitat 3.0: A Co-Habitat for Humans, Avatars and Robots**|Xavier Puig et.al.|[2310.13724](http://arxiv.org/abs/2310.13724)|null|
 
-<p align=right>(<a href=#updated-on-20250409>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250410>back to top</a>)</p>
 
 ## Gaussian Splatting
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-08**|**Micro-splatting: Maximizing Isotropic Constraints for Refined Optimization in 3D Gaussian Splatting**|Jee Won Lee et.al.|[2504.05740](http://arxiv.org/abs/2504.05740)|null|
+|**2025-04-07**|**View-Dependent Deformation Fields for 2D Editing of 3D Models**|Martin El Mqirmi et.al.|[2504.05544](http://arxiv.org/abs/2504.05544)|null|
+|**2025-04-07**|**L3GS: Layered 3D Gaussian Splats for Efficient 3D Scene Delivery**|Yi-Zhen Tsai et.al.|[2504.05517](http://arxiv.org/abs/2504.05517)|null|
 |**2025-04-07**|**Let it Snow! Animating Static Gaussian Scenes With Dynamic Weather Effects**|Gal Fiebelman et.al.|[2504.05296](http://arxiv.org/abs/2504.05296)|null|
 |**2025-04-07**|**PanoDreamer: Consistent Text to 360-Degree Scene Generation**|Zhexiao Xiong et.al.|[2504.05152](http://arxiv.org/abs/2504.05152)|null|
 |**2025-04-07**|**3D Gaussian Particle Approximation of VDB Datasets: A Study for Scientific Visualization**|Isha Sharma et.al.|[2504.04857](http://arxiv.org/abs/2504.04857)|null|
@@ -1038,5 +1041,5 @@
 |**2024-05-30**|**Deform3DGS: Flexible Deformation for Fast Surgical Scene Reconstruction with Gaussian Splatting**|Shuojue Yang et.al.|[2405.17835](http://arxiv.org/abs/2405.17835)|**[link](https://github.com/jinlab-imvr/deform3dgs)**|
 |**2024-05-28**|**Mani-GS: Gaussian Splatting Manipulation with Triangular Mesh**|Xiangjun Gao et.al.|[2405.17811](http://arxiv.org/abs/2405.17811)|null|
 
-<p align=right>(<a href=#updated-on-20250409>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250410>back to top</a>)</p>
 
