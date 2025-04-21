@@ -130,7 +130,7 @@
 |**2025-04-17**|**CAGE-GS: High-fidelity Cage Based 3D Gaussian Splatting Deformation**|Yifei Tong et.al.|[2504.12800](http://arxiv.org/abs/2504.12800)|null|
 |**2025-04-17**|**TSGS: Improving Gaussian Splatting for Transparent Surface Reconstruction via Normal and De-lighting Priors**|Mingwei Li et.al.|[2504.12799](http://arxiv.org/abs/2504.12799)|null|
 |**2025-04-16**|**CAGS: Open-Vocabulary 3D Scene Understanding with Context-Aware Gaussian Splatting**|Wei Sun et.al.|[2504.11893](http://arxiv.org/abs/2504.11893)|null|
-|**2025-04-16**|**3DAffordSplat: Efficient Affordance Reasoning with 3D Gaussians**|Zeming Wei et.al.|[2504.11218](http://arxiv.org/abs/2504.11218)|null|
+|**2025-04-16**|**3DAffordSplat: Efficient Affordance Reasoning with 3D Gaussians**|Zeming Wei et.al.|[2504.11218](http://arxiv.org/abs/2504.11218)|**[link](https://github.com/hcplab-sysu/3daffordsplat)**|
 |**2025-04-15**|**Easy3D: A Simple Yet Effective Method for 3D Interactive Segmentation**|Andrea Simonelli et.al.|[2504.11024](http://arxiv.org/abs/2504.11024)|null|
 |**2025-04-15**|**3D Gabor Splatting: Reconstruction of High-frequency Surface Texture using Gabor Noise**|Haato Watanabe et.al.|[2504.11003](http://arxiv.org/abs/2504.11003)|null|
 |**2025-04-15**|**GaSLight: Gaussian Splats for Spatially-Varying Lighting in HDR**|Christophe Bolduc et.al.|[2504.10809](http://arxiv.org/abs/2504.10809)|null|
@@ -145,9 +145,9 @@
 |**2025-04-12**|**A Constrained Optimization Approach for Gaussian Splatting from Coarsely-posed Images and Noisy Lidar Point Clouds**|Jizong Peng et.al.|[2504.09129](http://arxiv.org/abs/2504.09129)|null|
 |**2025-04-12**|**BIGS: Bimanual Category-agnostic Interaction Reconstruction from Monocular Videos via 3D Gaussian Splatting**|Jeongwan On et.al.|[2504.09097](http://arxiv.org/abs/2504.09097)|null|
 |**2025-04-11**|**FMLGS: Fast Multilevel Language Embedded Gaussians for Part-level Interactive Agents**|Xin Tan et.al.|[2504.08581](http://arxiv.org/abs/2504.08581)|null|
-|**2025-04-11**|**Cut-and-Splat: Leveraging Gaussian Splatting for Synthetic Data Generation**|Bram Vanherle et.al.|[2504.08473](http://arxiv.org/abs/2504.08473)|null|
+|**2025-04-11**|**Cut-and-Splat: Leveraging Gaussian Splatting for Synthetic Data Generation**|Bram Vanherle et.al.|[2504.08473](http://arxiv.org/abs/2504.08473)|**[link](https://github.com/edm-research/cut-and-splat)**|
 |**2025-04-11**|**In-2-4D: Inbetweening from Two Single-View Images to 4D Generation**|Sauradip Nag et.al.|[2504.08366](http://arxiv.org/abs/2504.08366)|null|
-|**2025-04-10**|**ContrastiveGaussian: High-Fidelity 3D Generation with Contrastive Learning and Gaussian Splatting**|Junbang Liu et.al.|[2504.08100](http://arxiv.org/abs/2504.08100)|null|
+|**2025-04-10**|**ContrastiveGaussian: High-Fidelity 3D Generation with Contrastive Learning and Gaussian Splatting**|Junbang Liu et.al.|[2504.08100](http://arxiv.org/abs/2504.08100)|**[link](https://github.com/yanllan-ljb/contrastivegaussian)**|
 |**2025-04-10**|**InteractAvatar: Modeling Hand-Face Interaction in Photorealistic Avatars with Deformable Gaussians**|Kefan Chen et.al.|[2504.07949](http://arxiv.org/abs/2504.07949)|null|
 |**2025-04-10**|**View-Dependent Uncertainty Estimation of 3D Gaussian Splatting**|Chenyu Han et.al.|[2504.07370](http://arxiv.org/abs/2504.07370)|null|
 |**2025-04-09**|**Wheat3DGS: In-field 3D Reconstruction, Instance Segmentation and Phenotyping of Wheat Heads with Gaussian Splatting**|Daiwei Zhang et.al.|[2504.06978](http://arxiv.org/abs/2504.06978)|null|
@@ -158,7 +158,7 @@
 |**2025-04-10**|**Stochastic Ray Tracing of 3D Transparent Gaussians**|Xin Sun et.al.|[2504.06598](http://arxiv.org/abs/2504.06598)|null|
 |**2025-04-08**|**Micro-splatting: Maximizing Isotropic Constraints for Refined Optimization in 3D Gaussian Splatting**|Jee Won Lee et.al.|[2504.05740](http://arxiv.org/abs/2504.05740)|null|
 |**2025-04-07**|**View-Dependent Deformation Fields for 2D Editing of 3D Models**|Martin El Mqirmi et.al.|[2504.05544](http://arxiv.org/abs/2504.05544)|null|
-|**2025-04-07**|**L3GS: Layered 3D Gaussian Splats for Efficient 3D Scene Delivery**|Yi-Zhen Tsai et.al.|[2504.05517](http://arxiv.org/abs/2504.05517)|null|
+|**2025-04-07**|**L3GS: Layered 3D Gaussian Splats for Efficient 3D Scene Delivery**|Yi-Zhen Tsai et.al.|[2504.05517](http://arxiv.org/abs/2504.05517)|**[link](https://github.com/mavens-lab/layered_3d_gaussian_splats)**|
 |**2025-04-07**|**Let it Snow! Animating Static Gaussian Scenes With Dynamic Weather Effects**|Gal Fiebelman et.al.|[2504.05296](http://arxiv.org/abs/2504.05296)|null|
 |**2025-04-07**|**PanoDreamer: Consistent Text to 360-Degree Scene Generation**|Zhexiao Xiong et.al.|[2504.05152](http://arxiv.org/abs/2504.05152)|null|
 |**2025-04-07**|**3D Gaussian Particle Approximation of VDB Datasets: A Study for Scientific Visualization**|Isha Sharma et.al.|[2504.04857](http://arxiv.org/abs/2504.04857)|null|
@@ -170,7 +170,7 @@
 |**2025-04-05**|**Interpretable Single-View 3D Gaussian Splatting using Unsupervised Hierarchical Disentangled Representation Learning**|Yuyang Zhang et.al.|[2504.04190](http://arxiv.org/abs/2504.04190)|null|
 |**2025-04-04**|**WildGS-SLAM: Monocular Gaussian Splatting SLAM in Dynamic Environments**|Jianhao Zheng et.al.|[2504.03886](http://arxiv.org/abs/2504.03886)|null|
 |**2025-04-04**|**HumanDreamer-X: Photorealistic Single-image Human Avatars Reconstruction via Gaussian Restoration**|Boyuan Wang et.al.|[2504.03536](http://arxiv.org/abs/2504.03536)|null|
-|**2025-04-03**|**Compressing 3D Gaussian Splatting by Noise-Substituted Vector Quantization**|Haishan Wang et.al.|[2504.03059](http://arxiv.org/abs/2504.03059)|null|
+|**2025-04-03**|**Compressing 3D Gaussian Splatting by Noise-Substituted Vector Quantization**|Haishan Wang et.al.|[2504.03059](http://arxiv.org/abs/2504.03059)|**[link](https://github.com/aaltoml/nsvqgs)**|
 |**2025-04-03**|**MonoGS++: Fast and Accurate Monocular RGB Gaussian SLAM**|Renwu Li et.al.|[2504.02437](http://arxiv.org/abs/2504.02437)|null|
 |**2025-04-03**|**ConsDreamer: Advancing Multi-View Consistency for Zero-Shot Text-to-3D Generation**|Yuan Zhou et.al.|[2504.02316](http://arxiv.org/abs/2504.02316)|**[link](https://github.com/GAInuist/ConsDreamer)**|
 |**2025-04-03**|**Digital-twin imaging based on descattering Gaussian splatting**|Suguru Shimomura et.al.|[2504.02278](http://arxiv.org/abs/2504.02278)|null|
