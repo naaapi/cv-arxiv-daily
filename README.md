@@ -1,4 +1,4 @@
-## Updated on 2025.05.20
+## Updated on 2025.05.21
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -118,12 +118,20 @@
 |**2023-11-14**|**Drivable 3D Gaussian Avatars**|Wojciech Zielonka et.al.|[2311.08581](http://arxiv.org/abs/2311.08581)|null|
 |**2023-10-19**|**Habitat 3.0: A Co-Habitat for Humans, Avatars and Robots**|Xavier Puig et.al.|[2310.13724](http://arxiv.org/abs/2310.13724)|null|
 
-<p align=right>(<a href=#updated-on-20250520>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
 
 ## Gaussian Splatting
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-19**|**Recollection from Pensieve: Novel View Synthesis via Learning from Uncalibrated Videos**|Ruoyu Wang et.al.|[2505.13440](http://arxiv.org/abs/2505.13440)|**[link](https://github.com/dwawayu/pensieve)**|
+|**2025-05-19**|**Hybrid 3D-4D Gaussian Splatting for Fast Dynamic Scene Representation**|Seungjun Oh et.al.|[2505.13215](http://arxiv.org/abs/2505.13215)|null|
+|**2025-05-19**|**3D Gaussian Adaptive Reconstruction for Fourier Light-Field Microscopy**|Chenyu Xu et.al.|[2505.12875](http://arxiv.org/abs/2505.12875)|null|
+|**2025-05-19**|**TACOcc:Target-Adaptive Cross-Modal Fusion with Volume Rendering for 3D Semantic Occupancy**|Luyao Lei et.al.|[2505.12693](http://arxiv.org/abs/2505.12693)|null|
+|**2025-05-18**|**Is Semantic SLAM Ready for Embedded Systems ? A Comparative Survey**|Calvin Galagain et.al.|[2505.12384](http://arxiv.org/abs/2505.12384)|null|
+|**2025-05-17**|**GTR: Gaussian Splatting Tracking and Reconstruction of Unknown Objects Based on Appearance and Geometric Complexity**|Takuya Ikeda et.al.|[2505.11905](http://arxiv.org/abs/2505.11905)|null|
+|**2025-05-17**|**MonoMobility: Zero-Shot 3D Mobility Analysis from Monocular Videos**|Hongyi Zhou et.al.|[2505.11868](http://arxiv.org/abs/2505.11868)|null|
+|**2025-05-17**|**Gaussian Splatting as a Unified Representation for Autonomy in Unstructured Environments**|Dexter Ong et.al.|[2505.11794](http://arxiv.org/abs/2505.11794)|null|
 |**2025-05-16**|**Exploiting Radiance Fields for Grasp Generation on Novel Synthetic Views**|Abhishek Kashyap et.al.|[2505.11467](http://arxiv.org/abs/2505.11467)|null|
 |**2025-05-16**|**GrowSplat: Constructing Temporal Digital Twins of Plants with Gaussian Splats**|Simeon Adebola et.al.|[2505.10923](http://arxiv.org/abs/2505.10923)|null|
 |**2025-05-16**|**EA-3DGS: Efficient and Adaptive 3D Gaussians with Highly Enhanced Quality for outdoor scenes**|Jianlin Guo et.al.|[2505.10787](http://arxiv.org/abs/2505.10787)|null|
@@ -1162,5 +1170,5 @@
 |**2024-05-30**|**Deform3DGS: Flexible Deformation for Fast Surgical Scene Reconstruction with Gaussian Splatting**|Shuojue Yang et.al.|[2405.17835](http://arxiv.org/abs/2405.17835)|**[link](https://github.com/jinlab-imvr/deform3dgs)**|
 |**2024-05-28**|**Mani-GS: Gaussian Splatting Manipulation with Triangular Mesh**|Xiangjun Gao et.al.|[2405.17811](http://arxiv.org/abs/2405.17811)|null|
 
-<p align=right>(<a href=#updated-on-20250520>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
 
