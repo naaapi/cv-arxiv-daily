@@ -1,4 +1,4 @@
-## Updated on 2025.05.28
+## Updated on 2025.05.29
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -119,12 +119,22 @@
 |**2023-11-14**|**Drivable 3D Gaussian Avatars**|Wojciech Zielonka et.al.|[2311.08581](http://arxiv.org/abs/2311.08581)|null|
 |**2023-10-19**|**Habitat 3.0: A Co-Habitat for Humans, Avatars and Robots**|Xavier Puig et.al.|[2310.13724](http://arxiv.org/abs/2310.13724)|null|
 
-<p align=right>(<a href=#updated-on-20250528>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250529>back to top</a>)</p>
 
 ## Gaussian Splatting
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-27**|**Generalizable and Relightable Gaussian Splatting for Human Novel View Synthesis**|Yipengjing Sun et.al.|[2505.21502](http://arxiv.org/abs/2505.21502)|null|
+|**2025-05-27**|**Empowering Vector Graphics with Consistently Arbitrary Viewing and View-dependent Visibility**|Yidi Li et.al.|[2505.21377](http://arxiv.org/abs/2505.21377)|null|
+|**2025-05-27**|**Structure from Collision**|Takuhiro Kaneko et.al.|[2505.21335](http://arxiv.org/abs/2505.21335)|null|
+|**2025-05-27**|**3D-UIR: 3D Gaussian for Underwater 3D Scene Reconstruction via Physics-Based Appearance-Medium Decouplin**|Jieyu Yuan et.al.|[2505.21238](http://arxiv.org/abs/2505.21238)|null|
+|**2025-05-28**|**CityGo: Lightweight Urban Modeling and Rendering with Proxy Buildings and Residual Gaussians**|Weihang Liu et.al.|[2505.21041](http://arxiv.org/abs/2505.21041)|null|
+|**2025-05-27**|**Intern-GS: Vision Model Guided Sparse-View 3D Gaussian Splatting**|Xiangyu Sun et.al.|[2505.20729](http://arxiv.org/abs/2505.20729)|null|
+|**2025-05-27**|**Wideband RF Radiance Field Modeling Using Frequency-embedded 3D Gaussian Splatting**|Zechen Li et.al.|[2505.20714](http://arxiv.org/abs/2505.20714)|null|
+|**2025-05-26**|**CCL-LGS: Contrastive Codebook Learning for 3D Language Gaussian Splatting**|Lei Tian et.al.|[2505.20469](http://arxiv.org/abs/2505.20469)|null|
+|**2025-05-26**|**ParticleGS: Particle-Based Dynamics Modeling of 3D Gaussians for Prior-free Motion Extrapolation**|Jinsheng Quan et.al.|[2505.20270](http://arxiv.org/abs/2505.20270)|null|
+|**2025-05-26**|**HaloGS: Loose Coupling of Compact Geometry and Gaussian Splats for 3D Scenes**|Changjian Jiang et.al.|[2505.20267](http://arxiv.org/abs/2505.20267)|null|
 |**2025-05-26**|**OB3D: A New Dataset for Benchmarking Omnidirectional 3D Reconstruction Using Blender**|Shintaro Ito et.al.|[2505.20126](http://arxiv.org/abs/2505.20126)|null|
 |**2025-05-26**|**Weather-Magician: Reconstruction and Rendering Framework for 4D Weather Synthesis In Real Time**|Chen Sang et.al.|[2505.19919](http://arxiv.org/abs/2505.19919)|null|
 |**2025-05-26**|**Sparse2DGS: Sparse-View Surface Reconstruction using 2D Gaussian Splatting with Dense Point Cloud**|Natsuki Takama et.al.|[2505.19854](http://arxiv.org/abs/2505.19854)|null|
@@ -1197,5 +1207,5 @@
 |**2024-05-30**|**Deform3DGS: Flexible Deformation for Fast Surgical Scene Reconstruction with Gaussian Splatting**|Shuojue Yang et.al.|[2405.17835](http://arxiv.org/abs/2405.17835)|**[link](https://github.com/jinlab-imvr/deform3dgs)**|
 |**2024-05-28**|**Mani-GS: Gaussian Splatting Manipulation with Triangular Mesh**|Xiangjun Gao et.al.|[2405.17811](http://arxiv.org/abs/2405.17811)|null|
 
-<p align=right>(<a href=#updated-on-20250528>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250529>back to top</a>)</p>
 
