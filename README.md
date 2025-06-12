@@ -1,4 +1,4 @@
-## Updated on 2025.06.11
+## Updated on 2025.06.12
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -122,12 +122,17 @@
 |**2023-11-14**|**Drivable 3D Gaussian Avatars**|Wojciech Zielonka et.al.|[2311.08581](http://arxiv.org/abs/2311.08581)|null|
 |**2023-10-19**|**Habitat 3.0: A Co-Habitat for Humans, Avatars and Robots**|Xavier Puig et.al.|[2310.13724](http://arxiv.org/abs/2310.13724)|null|
 
-<p align=right>(<a href=#updated-on-20250611>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250612>back to top</a>)</p>
 
 ## Gaussian Splatting
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-10**|**StreamSplat: Towards Online Dynamic 3D Reconstruction from Uncalibrated Video Streams**|Zike Wu et.al.|[2506.08862](http://arxiv.org/abs/2506.08862)|null|
+|**2025-06-11**|**Gaussian2Scene: 3D Scene Representation Learning via Self-supervised Learning with 3D Gaussian Splatting**|Keyi Liu et.al.|[2506.08777](http://arxiv.org/abs/2506.08777)|null|
+|**2025-06-10**|**SceneSplat++: A Large Dataset and Comprehensive Benchmark for Language Gaussian Splatting**|Mengjiao Ma et.al.|[2506.08710](http://arxiv.org/abs/2506.08710)|null|
+|**2025-06-10**|**TraGraph-GS: Trajectory Graph-based Gaussian Splatting for Arbitrary Large-Scale Scene Rendering**|Xiaohan Zhang et.al.|[2506.08704](http://arxiv.org/abs/2506.08704)|null|
+|**2025-06-10**|**Complex-Valued Holographic Radiance Fields**|Yicheng Zhan et.al.|[2506.08350](http://arxiv.org/abs/2506.08350)|null|
 |**2025-06-09**|**Speedy Deformable 3D Gaussian Splatting: Fast Rendering and Compression of Dynamic Scenes**|Allen Tu et.al.|[2506.07917](http://arxiv.org/abs/2506.07917)|null|
 |**2025-06-09**|**GaussianVAE: Adaptive Learning Dynamics of 3D Gaussians for High-Fidelity Super-Resolution**|Shuja Khalid et.al.|[2506.07897](http://arxiv.org/abs/2506.07897)|null|
 |**2025-06-09**|**R3D2: Realistic 3D Asset Insertion via Diffusion for Autonomous Driving Simulation**|William Ljungbergh et.al.|[2506.07826](http://arxiv.org/abs/2506.07826)|null|
@@ -1271,5 +1276,5 @@
 |**2024-05-30**|**Deform3DGS: Flexible Deformation for Fast Surgical Scene Reconstruction with Gaussian Splatting**|Shuojue Yang et.al.|[2405.17835](http://arxiv.org/abs/2405.17835)|**[link](https://github.com/jinlab-imvr/deform3dgs)**|
 |**2024-05-28**|**Mani-GS: Gaussian Splatting Manipulation with Triangular Mesh**|Xiangjun Gao et.al.|[2405.17811](http://arxiv.org/abs/2405.17811)|null|
 
-<p align=right>(<a href=#updated-on-20250611>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250612>back to top</a>)</p>
 
