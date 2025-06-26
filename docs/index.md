@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.25
+## Updated on 2025.06.26
 ## Human Avatar
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -123,6 +123,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-24**|**ManiGaussian++: General Robotic Bimanual Manipulation with Hierarchical Gaussian World Model**|Tengbo Yu et.al.|[2506.19842](http://arxiv.org/abs/2506.19842)|null|
+|**2025-06-24**|**Virtual Memory for 3D Gaussian Splatting**|Jonathan Haberl et.al.|[2506.19415](http://arxiv.org/abs/2506.19415)|null|
+|**2025-06-24**|**HoliGS: Holistic Gaussian Splatting for Embodied View Synthesis**|Xiaoyuan Wang et.al.|[2506.19291](http://arxiv.org/abs/2506.19291)|null|
 |**2025-06-23**|**GRAND-SLAM: Local Optimization for Globally Consistent Large-Scale Multi-Agent Gaussian SLAM**|Annika Thomas et.al.|[2506.18885](http://arxiv.org/abs/2506.18885)|null|
 |**2025-06-23**|**ViDAR: Video Diffusion-Aware 4D Reconstruction From Monocular Inputs**|Michal Nazarczuk et.al.|[2506.18792](http://arxiv.org/abs/2506.18792)|null|
 |**2025-06-23**|**3D Arena: An Open Platform for Generative 3D Evaluation**|Dylan Ebert et.al.|[2506.18787](http://arxiv.org/abs/2506.18787)|null|
