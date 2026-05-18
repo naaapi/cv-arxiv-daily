@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.05.16
+## Updated on 2026.05.18
 ## Human Avatar
 
 | Publish Date | Title | Authors | PDF | Code |
